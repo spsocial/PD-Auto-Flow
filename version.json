@@ -1,14 +1,20 @@
 {
-  "latest": "4.1",
+  "latest": "4.1.1",
   "releaseDate": "2026-05-04",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/latest/download/PD-Auto-Flow-VIP-v4.1.zip",
-  "changelog": "ประหยัด API ~95%, Shop Insight Dashboard, แก้ Shop 400+ error, retry ฉากแรก fail",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/latest/download/PD-Auto-Flow-VIP-v4.1.1.zip",
+  "changelog": "แก้ต่อฉากดึงคลิปไม่ได้, แก้ตั้งจำนวนภาพ/คลิป, ปุ่มเซฟคลิป, Insight เพิ่มเวลาโพส+เพศ+อายุ+จังหวัด",
   "required": false,
   "versions": [
     {
+      "version": "4.1.1",
+      "date": "2026-05-04",
+      "changelog": "แก้ต่อฉากดึงคลิปไม่ได้, แก้ตั้งจำนวนภาพ/คลิป (Flow เปลี่ยน UI), ปุ่มเซฟคลิปชัดเจนขึ้น, Insight เพิ่มเวลาโพส+เพศ+อายุ+จังหวัด",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.1.1/PD-Auto-Flow-VIP-v4.1.1.zip"
+    },
+    {
       "version": "4.1",
       "date": "2026-05-04",
-      "changelog": "ประหยัด API ~95%, Shop Insight Dashboard, แก้ Shop 400+ error, retry ฉากแรก fail, ระบบแจ้งเตือนอัพเดต",
+      "changelog": "ประหยัด API ~95%, Shop Insight Dashboard, แก้ Shop 400+ error, retry ฉากแรก fail",
       "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.1/PD-Auto-Flow-VIP-v4.1.zip"
     },
     {
@@ -16,12 +22,6 @@
       "date": "2026-05-02",
       "changelog": "ดึงคลิปต่อฉากเร็วขึ้น, แก้ Something went wrong, retry ฉากแรก fail, สลับ Flow tab อัตโนมัติ",
       "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.0.1/PD-Auto-Flow-VIP.zip"
-    },
-    {
-      "version": "4.0",
-      "date": "2026-05-01",
-      "changelog": "แก้ Something went wrong, เสียง 2 กำหนดเอง, CSS ยืดหยุ่น, Podcast fixes",
-      "downloadUrl": ""
     }
   ]
 }
