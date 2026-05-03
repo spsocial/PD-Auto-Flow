@@ -1,26 +1,26 @@
 {
-  "latest": "4.0.1",
-  "releaseDate": "2026-05-02",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/latest/download/PD-Auto-Flow-VIP.zip",
-  "changelog": "v4.0.1: ดึงคลิปต่อฉากเร็วขึ้น, แก้ Something went wrong, retry ฉากแรก fail, สลับ Flow tab อัตโนมัติ",
+  "latest": "4.1",
+  "releaseDate": "2026-05-04",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/latest/download/PD-Auto-Flow-VIP-v4.1.zip",
+  "changelog": "ประหยัด API ~95%, Shop Insight Dashboard, แก้ Shop 400+ error, retry ฉากแรก fail",
   "required": false,
   "versions": [
     {
+      "version": "4.1",
+      "date": "2026-05-04",
+      "changelog": "ประหยัด API ~95%, Shop Insight Dashboard, แก้ Shop 400+ error, retry ฉากแรก fail, ระบบแจ้งเตือนอัพเดต",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.1/PD-Auto-Flow-VIP-v4.1.zip"
+    },
+    {
       "version": "4.0.1",
       "date": "2026-05-02",
-      "changelog": "ดึงคลิปต่อฉากเร็วขึ้น, แก้ Something went wrong, retry ฉากแรก fail, สลับ Flow tab อัตโนมัติ, ระบบแจ้งเตือนอัพเดต",
+      "changelog": "ดึงคลิปต่อฉากเร็วขึ้น, แก้ Something went wrong, retry ฉากแรก fail, สลับ Flow tab อัตโนมัติ",
       "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.0.1/PD-Auto-Flow-VIP.zip"
     },
     {
       "version": "4.0",
       "date": "2026-05-01",
       "changelog": "แก้ Something went wrong, เสียง 2 กำหนดเอง, CSS ยืดหยุ่น, Podcast fixes",
-      "downloadUrl": ""
-    },
-    {
-      "version": "3.9",
-      "date": "2026-04-29",
-      "changelog": "Branding PD Auto Flow VIP, แก้ Hashtag ซ้ำ, Hook ทุกชุด, เพศไม่ระบุ",
       "downloadUrl": ""
     }
   ]
