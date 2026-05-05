@@ -1,10 +1,16 @@
 {
-  "latest": "4.1.2",
-  "releaseDate": "2026-05-04",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/latest/download/PD-Auto-Flow-VIP-v4.1.2.zip",
-  "changelog": "แก้ดึงสินค้า 100+ ชิ้นไม่แสดง, แก้ต่อฉากดึงคลิปไม่ได้, Insight Dashboard",
+  "latest": "4.2",
+  "releaseDate": "2026-05-05",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/latest/download/PD-Auto-Flow-VIP-v4.2.zip",
+  "changelog": "เตือนค่า API ก่อนกด Auto Fix ชื่อ/Hook ทุกชุด, เตือนเปลี่ยนภาษา Flow ก่อนเริ่ม, popup เลือกเสียง+กระจายตัวละครหลังแนบนายแบบ, ป้ายโปรโมชันเหมือนลายมือเขียนจริง",
   "required": false,
   "versions": [
+    {
+      "version": "4.2",
+      "date": "2026-05-05",
+      "changelog": "เตือนค่า API ก่อนกดปุ่ม batch (Auto Fix ชื่อ, Hook ทุกชุด), เตือนเปลี่ยนภาษา Flow ก่อนเริ่ม, popup เลือกเสียง+กระจายตัวละครหลังแนบนายแบบ, ป้ายโปรโมชันเหมือนลายมือเขียนจริง",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.2/PD-Auto-Flow-VIP-v4.2.zip"
+    },
     {
       "version": "4.1.2",
       "date": "2026-05-04",
