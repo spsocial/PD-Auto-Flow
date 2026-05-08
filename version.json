@@ -1,14 +1,20 @@
 {
-  "latest": "4.3",
+  "latest": "4.3.1",
   "releaseDate": "2026-05-08",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3/PD-Auto-VIP-v4.3-protected.zip",
-  "changelog": "⚡ เพิ่ม MAIN world click — กดปุ่ม Generate ผ่าน React โดยตรง ไม่มี Yellow Bar \"Extension started debugging\" กระเด้งให้งง, 🛡️ Auto-fallback Chrome Debugger ถ้า MAIN ใช้ไม่ได้ + toggle เลือกใช้ได้ในตั้งค่า, ⏱️ เพิ่มเวลารอสร้างคลิปทุกจุดเป็น 200s (เผื่อ Flow ช้าหลัง update), 🎤 ปลดล็อค Voice Mode โหมดสตอรี่ (drama/travel/horror/review) — เลือก voiceover/lipsync ได้, 📌 เพิ่มช่องคำสั่งเพิ่มเติมให้ AI ในโหมดสตอรี่ (เหมือนโหมดออโต้), 🔧 แก้ false positive ตรวจสร้างภาพล้มเหลวทั้งที่ภาพกำลังสร้าง — เพิ่ม grace period 5s + detector ตรวจ text",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3.1/PD-Auto-VIP-v4.3.1-protected.zip",
+  "changelog": "🎯 ต่อฉาก (extend) ก็ใช้ MAIN world click แล้ว — ไม่มี Yellow Bar กระเด้งอีกแล้วทุกขั้นตอน, 🧹 ลบช่อง toggle Chrome Debugger ออก (ไม่จำเป็นแล้ว — auto-fallback ในตัว), ✅ ตรวจคลิปเสร็จ + แก้เฟล + retry ทำงานครบเหมือนเดิม",
   "required": false,
   "versions": [
     {
+      "version": "4.3.1",
+      "date": "2026-05-08",
+      "changelog": "🎯 ต่อฉาก (extend) ใช้ MAIN world click แล้ว — ไม่มี Yellow Bar ทุกขั้นตอน, 🧹 ลบ toggle Chrome Debugger ออก (auto-fallback ในตัวแล้ว), ✅ ระบบตรวจคลิปเสร็จ + แก้เฟล ทำงานครบ",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3.1/PD-Auto-VIP-v4.3.1-protected.zip"
+    },
+    {
       "version": "4.3",
       "date": "2026-05-08",
-      "changelog": "⚡ MAIN world click — กดปุ่ม Generate ผ่าน React โดยตรง ไม่มี Yellow Bar กระเด้ง, 🛡️ Auto-fallback Chrome Debugger ถ้า MAIN ใช้ไม่ได้ + toggle เลือกใช้ได้, ⏱️ เพิ่มเวลารอสร้างคลิปทุกจุดเป็น 200s, 🎤 ปลดล็อค Voice Mode โหมดสตอรี่ (drama/travel/horror/review), 📌 เพิ่มช่องคำสั่งเพิ่มเติมให้ AI ในโหมดสตอรี่, 🔧 แก้ false positive ตรวจสร้างภาพล้มเหลวทั้งที่ภาพกำลังสร้าง",
+      "changelog": "⚡ MAIN world click — กดปุ่ม Generate ผ่าน React โดยตรง ไม่มี Yellow Bar กระเด้ง, 🛡️ Auto-fallback Chrome Debugger ถ้า MAIN ใช้ไม่ได้, ⏱️ เพิ่มเวลารอสร้างคลิปทุกจุดเป็น 200s, 🎤 ปลดล็อค Voice Mode โหมดสตอรี่, 📌 เพิ่มช่องคำสั่งเพิ่มเติมให้ AI ในโหมดสตอรี่, 🔧 แก้ false positive ตรวจสร้างภาพล้มเหลว",
       "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3/PD-Auto-VIP-v4.3-protected.zip"
     },
     {
@@ -46,12 +52,6 @@
       "date": "2026-05-04",
       "changelog": "ประหยัด API ~95%, Shop Insight Dashboard, แก้ Shop 400+ error",
       "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.1/PD-Auto-Flow-VIP-v4.1.zip"
-    },
-    {
-      "version": "4.0.1",
-      "date": "2026-05-02",
-      "changelog": "แก้ Something went wrong, retry ฉากแรก fail, สลับ Flow tab อัตโนมัติ",
-      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.0.1/PD-Auto-Flow-VIP.zip"
     }
   ]
 }
