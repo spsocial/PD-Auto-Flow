@@ -1,14 +1,20 @@
 {
-  "latest": "4.2.2",
-  "releaseDate": "2026-05-07",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.2.2/PD-Auto-VIP-v4.2.2-protected.zip",
-  "changelog": "🔧 แก้บอทพังจาก Flow update 2026-05-07 (reCAPTCHA Enterprise + DOM/CDN เปลี่ยน), ใช้ CDP click ผ่าน Flow ระบบใหม่, ✨ แก้ลบชื่อไฟล์ตอนโพส TikTok ไม่ออก, ตรวจ fail ภาพโหมดสตอรี่เร็วขึ้น (~5s แทน 150s), 🎨 PM ปิด section บทพูด/Hook แล้วจำได้ — ปิดแล้วไม่ใช้ใน gen, ⏱️ เพิ่มเวลารอต่อฉากเป็น 200s",
+  "latest": "4.3",
+  "releaseDate": "2026-05-08",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3/PD-Auto-VIP-v4.3-protected.zip",
+  "changelog": "⚡ เพิ่ม MAIN world click — กดปุ่ม Generate ผ่าน React โดยตรง ไม่มี Yellow Bar \"Extension started debugging\" กระเด้งให้งง, 🛡️ Auto-fallback Chrome Debugger ถ้า MAIN ใช้ไม่ได้ + toggle เลือกใช้ได้ในตั้งค่า, ⏱️ เพิ่มเวลารอสร้างคลิปทุกจุดเป็น 200s (เผื่อ Flow ช้าหลัง update), 🎤 ปลดล็อค Voice Mode โหมดสตอรี่ (drama/travel/horror/review) — เลือก voiceover/lipsync ได้, 📌 เพิ่มช่องคำสั่งเพิ่มเติมให้ AI ในโหมดสตอรี่ (เหมือนโหมดออโต้), 🔧 แก้ false positive ตรวจสร้างภาพล้มเหลวทั้งที่ภาพกำลังสร้าง — เพิ่ม grace period 5s + detector ตรวจ text",
   "required": false,
   "versions": [
     {
+      "version": "4.3",
+      "date": "2026-05-08",
+      "changelog": "⚡ MAIN world click — กดปุ่ม Generate ผ่าน React โดยตรง ไม่มี Yellow Bar กระเด้ง, 🛡️ Auto-fallback Chrome Debugger ถ้า MAIN ใช้ไม่ได้ + toggle เลือกใช้ได้, ⏱️ เพิ่มเวลารอสร้างคลิปทุกจุดเป็น 200s, 🎤 ปลดล็อค Voice Mode โหมดสตอรี่ (drama/travel/horror/review), 📌 เพิ่มช่องคำสั่งเพิ่มเติมให้ AI ในโหมดสตอรี่, 🔧 แก้ false positive ตรวจสร้างภาพล้มเหลวทั้งที่ภาพกำลังสร้าง",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3/PD-Auto-VIP-v4.3-protected.zip"
+    },
+    {
       "version": "4.2.2",
       "date": "2026-05-07",
-      "changelog": "🔧 แก้บอทพังจาก Flow update ใหญ่ (reCAPTCHA Enterprise + DOM/CDN ใหม่) — ใช้ CDP click ผ่าน Flow ระบบใหม่, ✨ แก้ลบชื่อไฟล์ตอนโพส TikTok ไม่ออก (filename hack basename ว่าง), ตรวจ fail ภาพโหมดสตอรี่เร็วขึ้น (~5s แทน 150s), 🎨 PM ปิด section บทพูด/Hook แล้วจำได้ — ปิดแล้วไม่ใช้ใน gen ด้วย, ⏱️ เพิ่มเวลารอต่อฉาก Auto Mode เป็น 200s",
+      "changelog": "🔧 แก้บอทพังจาก Flow update ใหญ่ (reCAPTCHA Enterprise + DOM/CDN ใหม่) — ใช้ CDP click, ✨ แก้ลบชื่อไฟล์ตอนโพส TikTok ไม่ออก, ⚡ ตรวจ fail ภาพโหมดสตอรี่เร็วขึ้น (~5s แทน 150s), 🎨 PM ปิด section บทพูด/Hook แล้วจำได้, ⏱️ เพิ่มเวลารอต่อฉาก Auto Mode 200s",
       "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.2.2/PD-Auto-VIP-v4.2.2-protected.zip"
     },
     {
