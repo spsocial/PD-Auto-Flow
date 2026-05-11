@@ -1,10 +1,16 @@
 {
-  "latest": "4.3.1",
-  "releaseDate": "2026-05-08",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3.1/PD-Auto-VIP-v4.3.1-protected.zip",
-  "changelog": "🎯 ต่อฉาก (extend) ก็ใช้ MAIN world click แล้ว — ไม่มี Yellow Bar กระเด้งอีกแล้วทุกขั้นตอน, 🧹 ลบช่อง toggle Chrome Debugger ออก (ไม่จำเป็นแล้ว — auto-fallback ในตัว), ✅ ตรวจคลิปเสร็จ + แก้เฟล + retry ทำงานครบเหมือนเดิม",
+  "latest": "4.3.2",
+  "releaseDate": "2026-05-11",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3.2/PD-Auto-VIP-v4.3.2-protected.zip",
+  "changelog": "🔄 รองรับ Flow ถอดโมเดล Fast Lower (10 พ.ค.) — เปลี่ยน default เป็น Lite Lower ให้อัตโนมัติ (ฟรี + ต่อฉากได้), 🎙️ แก้บั๊กเสียงสลับเพศในสไตล์เห็นแค่มือ — เสียงตรงกับที่ตั้งไว้ตลอดคลิป, 🚶 ปรับปรุงคลิกตอนต่อฉาก (เลียน mouse trajectory คน) — ลดโอกาส Flow ตรวจจับเป็นบอท",
   "required": false,
   "versions": [
+    {
+      "version": "4.3.2",
+      "date": "2026-05-11",
+      "changelog": "🔄 รองรับ Flow ถอดโมเดล Fast Lower (10 พ.ค.) — เปลี่ยน default เป็น Lite Lower ให้อัตโนมัติ (ฟรี + ต่อฉากได้), 🎙️ แก้บั๊กเสียงสลับเพศในสไตล์เห็นแค่มือ — เสียงตรงกับที่ตั้งไว้ตลอดคลิป, 🚶 ปรับปรุงคลิกตอนต่อฉาก (เลียน mouse trajectory คน) — ลดโอกาส Flow ตรวจจับเป็นบอท",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3.2/PD-Auto-VIP-v4.3.2-protected.zip"
+    },
     {
       "version": "4.3.1",
       "date": "2026-05-08",
