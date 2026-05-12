@@ -1,10 +1,16 @@
 {
-  "latest": "4.3.2",
-  "releaseDate": "2026-05-11",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3.2/PD-Auto-VIP-v4.3.2-protected.zip",
-  "changelog": "🔄 รองรับ Flow ถอดโมเดล Fast Lower (10 พ.ค.) — เปลี่ยน default เป็น Lite Lower ให้อัตโนมัติ (ฟรี + ต่อฉากได้), 🎙️ แก้บั๊กเสียงสลับเพศในสไตล์เห็นแค่มือ — เสียงตรงกับที่ตั้งไว้ตลอดคลิป, 🚶 ปรับปรุงคลิกตอนต่อฉาก (เลียน mouse trajectory คน) — ลดโอกาส Flow ตรวจจับเป็นบอท",
+  "latest": "4.3.3",
+  "releaseDate": "2026-05-13",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3.3/PD-Auto-VIP-v4.3.3-protected.zip",
+  "changelog": "📊 ระบบนับ Token + ค่าใช้จ่าย API (ดูในหน้าตั้งค่า) — เห็นจริงๆ ว่าโหมดไหนกินเท่าไร, 🎙️ Podcast Mode อัพเกรดใหญ่: คำสั่งเพิ่มเติม AI, ฉากกรอกเอง, ปุ่ม DB เลือกสินค้า, TikTok auto-post, 🛍️ Multi-Product Queue ใน Podcast — เลือก DB หลายสินค้าวนตาม Loop, 🐛 แก้บั๊ก Podcast ตอนภาพเฟลและรีทาย ลืมแนบรูปตัวละคร",
   "required": false,
   "versions": [
+    {
+      "version": "4.3.3",
+      "date": "2026-05-13",
+      "changelog": "📊 ระบบนับ Token + ค่าใช้จ่าย API (ดูในหน้าตั้งค่า) — เห็นจริงๆ ว่าโหมดไหนกินเท่าไร, 🎙️ Podcast Mode อัพเกรดใหญ่: คำสั่งเพิ่มเติม AI, ฉากกรอกเอง, ปุ่ม DB เลือกสินค้า, TikTok auto-post, 🛍️ Multi-Product Queue ใน Podcast — เลือก DB หลายสินค้าวนตาม Loop, 🐛 แก้บั๊ก Podcast ตอนภาพเฟลและรีทาย ลืมแนบรูปตัวละคร",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3.3/PD-Auto-VIP-v4.3.3-protected.zip"
+    },
     {
       "version": "4.3.2",
       "date": "2026-05-11",
