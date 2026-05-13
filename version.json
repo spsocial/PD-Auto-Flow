@@ -1,10 +1,16 @@
 {
-  "latest": "4.3.3",
+  "latest": "4.3.4",
   "releaseDate": "2026-05-13",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3.3/PD-Auto-VIP-v4.3.3-protected.zip",
-  "changelog": "📊 ระบบนับ Token + ค่าใช้จ่าย API (ดูในหน้าตั้งค่า) — เห็นจริงๆ ว่าโหมดไหนกินเท่าไร, 🎙️ Podcast Mode อัพเกรดใหญ่: คำสั่งเพิ่มเติม AI, ฉากกรอกเอง, ปุ่ม DB เลือกสินค้า, TikTok auto-post, 🛍️ Multi-Product Queue ใน Podcast — เลือก DB หลายสินค้าวนตาม Loop, 🐛 แก้บั๊ก Podcast ตอนภาพเฟลและรีทาย ลืมแนบรูปตัวละคร",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3.4/PD-Auto-VIP-v4.3.4-protected.zip",
+  "changelog": "🧪 โหมดตรวจคลิปก่อนโพส (Podcast + Story) — เก็บคลิปไว้ตรวจก่อนแล้วค่อยกดโพสในโหมดโพสคลิป, ⚠️ Popup เด้งแจ้งวิธีแก้เมื่อ Flow บล็อค (5 วิธี + ปุ่มล้างแคช 1 คลิก) ลูกค้าใหม่ไม่ต้องงงว่าบอทเสีย, 🐛 แก้บั๊ก Podcast โพส TikTok แต่ไม่ปักตะกร้า, 🎙️ แก้บทพูด Podcast 2 คนยาวเกินจน Veo พูดไม่ทัน, 🌐 เพิ่ม popup เตือนเปลี่ยนภาษา Flow ใน Podcast Mode, 📋 Log แปลภาษาไทยเยอะขึ้น + ปรับปุ่ม sort ให้แคบลง, 🐛 แก้จุดแดงเตือนอัพเดตค้างจาก v4.3.3",
   "required": false,
   "versions": [
+    {
+      "version": "4.3.4",
+      "date": "2026-05-13",
+      "changelog": "🧪 โหมดตรวจคลิปก่อนโพส (Podcast + Story) — เก็บคลิปไว้ตรวจก่อนแล้วค่อยกดโพสในโหมดโพสคลิป, ⚠️ Popup เด้งแจ้งวิธีแก้เมื่อ Flow บล็อค (5 วิธี + ปุ่มล้างแคช 1 คลิก) ลูกค้าใหม่ไม่ต้องงงว่าบอทเสีย, 🐛 แก้บั๊ก Podcast โพส TikTok แต่ไม่ปักตะกร้า, 🎙️ แก้บทพูด Podcast 2 คนยาวเกินจน Veo พูดไม่ทัน, 🌐 เพิ่ม popup เตือนเปลี่ยนภาษา Flow ใน Podcast Mode, 📋 Log แปลภาษาไทยเยอะขึ้น + ปรับปุ่ม sort ให้แคบลง, 🐛 แก้จุดแดงเตือนอัพเดตค้างจาก v4.3.3",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3.4/PD-Auto-VIP-v4.3.4-protected.zip"
+    },
     {
       "version": "4.3.3",
       "date": "2026-05-13",
