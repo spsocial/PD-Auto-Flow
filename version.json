@@ -1,10 +1,16 @@
 {
-  "latest": "4.3.4",
-  "releaseDate": "2026-05-13",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3.4/PD-Auto-VIP-v4.3.4-protected.zip",
-  "changelog": "🧪 โหมดตรวจคลิปก่อนโพส (Podcast + Story) — เก็บคลิปไว้ตรวจก่อนแล้วค่อยกดโพสในโหมดโพสคลิป, ⚠️ Popup เด้งแจ้งวิธีแก้เมื่อ Flow บล็อค (5 วิธี + ปุ่มล้างแคช 1 คลิก) ลูกค้าใหม่ไม่ต้องงงว่าบอทเสีย, 🐛 แก้บั๊ก Podcast โพส TikTok แต่ไม่ปักตะกร้า, 🎙️ แก้บทพูด Podcast 2 คนยาวเกินจน Veo พูดไม่ทัน, 🌐 เพิ่ม popup เตือนเปลี่ยนภาษา Flow ใน Podcast Mode, 📋 Log แปลภาษาไทยเยอะขึ้น + ปรับปุ่ม sort ให้แคบลง, 🐛 แก้จุดแดงเตือนอัพเดตค้างจาก v4.3.3",
+  "latest": "4.3.5",
+  "releaseDate": "2026-05-14",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3.5/PD-Auto-VIP-v4.3.5-protected.zip",
+  "changelog": "🐛 Hotfix: แก้ popup 'มีคลิปค้างใน IDB' ใน Story Mode เด้งซ้ำทุกรอบเวลาเปิดโหมดตรวจคลิป — ตอนนี้เด้งครั้งเดียวต่อ session, ✅ ปรับให้ Podcast Mode ใช้ pattern เดียวกันด้วย (defense in depth)",
   "required": false,
   "versions": [
+    {
+      "version": "4.3.5",
+      "date": "2026-05-14",
+      "changelog": "🐛 Hotfix: แก้ popup 'มีคลิปค้างใน IDB' ใน Story Mode เด้งซ้ำทุกรอบเวลาเปิดโหมดตรวจคลิป — ตอนนี้เด้งครั้งเดียวต่อ session, ✅ ปรับให้ Podcast Mode ใช้ pattern เดียวกันด้วย (defense in depth)",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3.5/PD-Auto-VIP-v4.3.5-protected.zip"
+    },
     {
       "version": "4.3.4",
       "date": "2026-05-13",
