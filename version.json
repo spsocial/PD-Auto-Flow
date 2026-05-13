@@ -1,10 +1,16 @@
 {
-  "latest": "4.3.5",
+  "latest": "4.3.6",
   "releaseDate": "2026-05-14",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3.5/PD-Auto-VIP-v4.3.5-protected.zip",
-  "changelog": "🐛 Hotfix: แก้ popup 'มีคลิปค้างใน IDB' ใน Story Mode เด้งซ้ำทุกรอบเวลาเปิดโหมดตรวจคลิป — ตอนนี้เด้งครั้งเดียวต่อ session, ✅ ปรับให้ Podcast Mode ใช้ pattern เดียวกันด้วย (defense in depth)",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3.6/PD-Auto-VIP-v4.3.6-protected.zip",
+  "changelog": "➕ ปุ่ม DB ใหม่ใน Product Manager — เพิ่มสินค้าจาก DB ต่อท้ายชุดเดิมได้ (ไม่ลบของเก่า) เหมาะกับคนที่มีสินค้าเก่าอยู่แล้วและอยากเพิ่มเรื่อยๆ, 📜 ประวัติเวอร์ชันในหน้าตั้งค่า — คลิกแต่ละบรรทัดเพื่ออ่าน changelog เต็ม อ่านย้อนหลังได้ทุกเวอร์ชั่น, 🤖 ปุ่ม Auto Fix ชื่อ + AI คิด Hook ทุกชุด — กดแล้วเลือกได้ว่าจะทำชุดไหนบ้าง (ทั้งหมด/ไม่เลือก/สลับ) ประหยัด API ถ้าเพิ่มสินค้ามาแค่ไม่กี่ชุด, ✨ Hook button มี marker บอกว่าชุดไหนมี Hook อยู่แล้ว",
   "required": false,
   "versions": [
+    {
+      "version": "4.3.6",
+      "date": "2026-05-14",
+      "changelog": "➕ ปุ่ม DB ใหม่ใน Product Manager — เพิ่มสินค้าจาก DB ต่อท้ายชุดเดิมได้ (ไม่ลบของเก่า) เหมาะกับคนที่มีสินค้าเก่าอยู่แล้วและอยากเพิ่มเรื่อยๆ, 📜 ประวัติเวอร์ชันในหน้าตั้งค่า — คลิกแต่ละบรรทัดเพื่ออ่าน changelog เต็ม อ่านย้อนหลังได้ทุกเวอร์ชั่น, 🤖 ปุ่ม Auto Fix ชื่อ + AI คิด Hook ทุกชุด — กดแล้วเลือกได้ว่าจะทำชุดไหนบ้าง (ทั้งหมด/ไม่เลือก/สลับ) ประหยัด API ถ้าเพิ่มสินค้ามาแค่ไม่กี่ชุด, ✨ Hook button มี marker บอกว่าชุดไหนมี Hook อยู่แล้ว",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3.6/PD-Auto-VIP-v4.3.6-protected.zip"
+    },
     {
       "version": "4.3.5",
       "date": "2026-05-14",
