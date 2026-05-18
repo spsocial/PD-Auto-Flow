@@ -1,10 +1,16 @@
 {
-  "latest": "4.4.1",
-  "releaseDate": "2026-05-18",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.4.1/PD-Auto-VIP-v4.4.1-protected.zip",
-  "changelog": "🐛 แก้บั๊กบทพูดฉาก 2 หายเป็น 3 จุดจุดจุด! ภาษาไทยเขียนติดกันไม่มี space — splitter ของเก่าแบ่งไม่ได้ ฉาก 2 เลยว่าง บอทใช้ default fallback แทน คลิปเลยพูดน่าเบื่อ ตอนนี้แก้ใหม่ ตัดที่จุดธรรมชาติ (ค่ะ/ครับ/นะ/เลย/มาก/แล้ว) ฉาก 2 ได้บทพูดเต็มทุกครั้ง!, 🔒 บอทรู้แล้วเมื่อ Veo สร้าง Audio ไม่ผ่าน! เดิม Flow ขึ้น 'Audio generation failed' แต่บอทไม่รู้ ปล่อยรอ timeout 20 นาที — ใหม่ดักจาก API ตรงๆ (status: FAILED) ไม่ขึ้นกับข้อความ Flow เปลี่ยน wording ยังจับได้ → skip ชุดถัดไปทันที ประหยัดเวลาเป็นชั่วโมง, 🤚 สไตล์เห็นแค่มือบังคับ 2 แขนเท่านั้น! ลูกค้าบ่นว่า AI งอกแขน 3-4 แขน ตอนนี้ใส่ข้อบังคับชัด — exactly 2 hands, anatomically correct, no extra arms, no duplicate hands ครอบ Manual + Auto + Image ทุกจุดที่เห็นแค่มือ, ⚙️ Audio fail detection สำหรับ Auto ฉากแรก + Story + Podcast (extend ใช้ retry เดิมไม่กระทบ), 🎨 รูปต่างกันทุกฉาก (Story-style) สำหรับ Auto ต่อฉาก — เร็วๆ นี้ รอติดตาม!",
+  "latest": "4.4.2",
+  "releaseDate": "2026-05-19",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.4.2/PD-Auto-VIP-v4.4.2-protected.zip",
+  "changelog": "💳 PD Auto AI Credits — โชว์ครบในบอท! เห็น Tier + credits เหลือ + วันต่ออายุ + progress bar สวยๆ ไม่ต้องเปิดเว็บไปดูเอง อยู่ในหน้าตั้งค่า 'API Usage Stats', ⚠️ เตือนตอน credits ใกล้หมด! 80% เตือนสีเหลือง 95% เตือนสีแดง — ลูกค้ามีเวลาเตรียมตัวซื้อเพิ่มก่อนหมดจริง, 🚨 Credits หมด บอทหยุดเองอัตโนมัติ! ก่อนหน้านี้ credits หมดบอทเงียบๆใช้ fallback คลิปออกมาน่าเบื่อ ตอนนี้เด้ง Modal แจ้งชัด + หยุดบอททุก mode (Auto/Story/Podcast) มีปุ่มเปิด Dashboard ซื้อเพิ่มเลย, 📊 หน้าสถิติ API ปรับใหม่! ลบ ฿ ราคาออก แสดง 'Tokens' แทน — ลูกค้า PD Auto AI subscription ดูแล้วเข้าใจง่ายขึ้น ไม่งงเหมือนเดิม, 🔄 Auto-refresh credits ทุก 5 นาที — ดูสดๆได้ตลอด ไม่ต้องกด refresh เอง, 🎨 รูปต่างกันทุกฉาก (Story-style) สำหรับ Auto ต่อฉาก — เร็วๆ นี้ รอติดตาม!",
   "required": false,
   "versions": [
+    {
+      "version": "4.4.2",
+      "date": "2026-05-19",
+      "changelog": "💳 PD Auto AI Credits — โชว์ครบในบอท! เห็น Tier + credits เหลือ + วันต่ออายุ + progress bar สวยๆ ไม่ต้องเปิดเว็บไปดูเอง อยู่ในหน้าตั้งค่า 'API Usage Stats', ⚠️ เตือนตอน credits ใกล้หมด! 80% เตือนสีเหลือง 95% เตือนสีแดง — ลูกค้ามีเวลาเตรียมตัวซื้อเพิ่มก่อนหมดจริง, 🚨 Credits หมด บอทหยุดเองอัตโนมัติ! ก่อนหน้านี้ credits หมดบอทเงียบๆใช้ fallback คลิปออกมาน่าเบื่อ ตอนนี้เด้ง Modal แจ้งชัด + หยุดบอททุก mode (Auto/Story/Podcast) มีปุ่มเปิด Dashboard ซื้อเพิ่มเลย, 📊 หน้าสถิติ API ปรับใหม่! ลบ ฿ ราคาออก แสดง 'Tokens' แทน — ลูกค้า PD Auto AI subscription ดูแล้วเข้าใจง่ายขึ้น ไม่งงเหมือนเดิม, 🔄 Auto-refresh credits ทุก 5 นาที — ดูสดๆได้ตลอด ไม่ต้องกด refresh เอง, 🎨 รูปต่างกันทุกฉาก (Story-style) สำหรับ Auto ต่อฉาก — เร็วๆ นี้ รอติดตาม!",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.4.2/PD-Auto-VIP-v4.4.2-protected.zip"
+    },
     {
       "version": "4.4.1",
       "date": "2026-05-18",
