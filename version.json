@@ -1,10 +1,16 @@
 {
-  "latest": "4.4.0",
+  "latest": "4.4.1",
   "releaseDate": "2026-05-18",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.4.0/PD-Auto-VIP-v4.4.0-protected.zip",
-  "changelog": "✨ ของใหม่ใหญ่! PD Auto AI — Key เดียว ใช้ได้ทุกโมเดล (Gemini 2.5/3, GPT-5.4/5.5, Claude Haiku/Sonnet/Opus, รวม 12+ โมเดล) ไม่ต้องสมัคร OpenAI/Gemini/Claude แยกอีก ไม่ต้องผูกบัตรต่างประเทศ จ่ายเป็นบาทสแกน PromptPay ที่ promptdee-ai.com, 🎁 ทดลองฟรี 3 วัน Key เดียวใช้ได้หลายเครื่อง — เหมือน license บอท Key เดียวใช้ได้หลายที่, 💰 ราคาเริ่มต้น 99 บาท/เดือน คุ้มมากเทียบกับเติม OpenAI/Gemini แยกที่ต้องบัตร, 🎯 แนะนำใช้ ⭐ Gemini 2.5 Flash — เร็ว แม่นภาษาไทย 1 ชุดใช้ ~3-5 calls ≈ 0.15 บาท ราคาประหยัดสุดในตลาด, 🔒 แก้บั๊กสำคัญ! บอทบังคับ Animate รูปที่ AI สร้างเสมอ ห้าม fallback ไปสร้างวิดีโอจาก prompt อย่างเดียว (ที่ทำให้คลิปออกมามั่ว) — ถ้า Animate ไม่ผ่าน 3 รอบ บอทจะข้ามไปชุดถัดไปทันที ไม่ปล่อยคลิปเสียๆ ออกมา, 📊 ดู credits คงเหลือ + การใช้งาน real-time ที่ Dashboard ใหม่, 🔧 อัปเดต UI version เลขแสดงครบทุกหน้า (ก่อนหน้าค้าง v4.3.2 หลายจุด), 🎨 รูปต่างกันทุกฉาก (Story-style) สำหรับ Auto ต่อฉาก — กำลังจะมาใน v4.4.1 เร็วๆ นี้ รอติดตาม!",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.4.1/PD-Auto-VIP-v4.4.1-protected.zip",
+  "changelog": "🐛 แก้บั๊กบทพูดฉาก 2 หายเป็น 3 จุดจุดจุด! ภาษาไทยเขียนติดกันไม่มี space — splitter ของเก่าแบ่งไม่ได้ ฉาก 2 เลยว่าง บอทใช้ default fallback แทน คลิปเลยพูดน่าเบื่อ ตอนนี้แก้ใหม่ ตัดที่จุดธรรมชาติ (ค่ะ/ครับ/นะ/เลย/มาก/แล้ว) ฉาก 2 ได้บทพูดเต็มทุกครั้ง!, 🔒 บอทรู้แล้วเมื่อ Veo สร้าง Audio ไม่ผ่าน! เดิม Flow ขึ้น 'Audio generation failed' แต่บอทไม่รู้ ปล่อยรอ timeout 20 นาที — ใหม่ดักจาก API ตรงๆ (status: FAILED) ไม่ขึ้นกับข้อความ Flow เปลี่ยน wording ยังจับได้ → skip ชุดถัดไปทันที ประหยัดเวลาเป็นชั่วโมง, 🤚 สไตล์เห็นแค่มือบังคับ 2 แขนเท่านั้น! ลูกค้าบ่นว่า AI งอกแขน 3-4 แขน ตอนนี้ใส่ข้อบังคับชัด — exactly 2 hands, anatomically correct, no extra arms, no duplicate hands ครอบ Manual + Auto + Image ทุกจุดที่เห็นแค่มือ, ⚙️ Audio fail detection สำหรับ Auto ฉากแรก + Story + Podcast (extend ใช้ retry เดิมไม่กระทบ), 🎨 รูปต่างกันทุกฉาก (Story-style) สำหรับ Auto ต่อฉาก — เร็วๆ นี้ รอติดตาม!",
   "required": false,
   "versions": [
+    {
+      "version": "4.4.1",
+      "date": "2026-05-18",
+      "changelog": "🐛 แก้บั๊กบทพูดฉาก 2 หายเป็น 3 จุดจุดจุด! ภาษาไทยเขียนติดกันไม่มี space — splitter ของเก่าแบ่งไม่ได้ ฉาก 2 เลยว่าง บอทใช้ default fallback แทน คลิปเลยพูดน่าเบื่อ ตอนนี้แก้ใหม่ ตัดที่จุดธรรมชาติ (ค่ะ/ครับ/นะ/เลย/มาก/แล้ว) ฉาก 2 ได้บทพูดเต็มทุกครั้ง!, 🔒 บอทรู้แล้วเมื่อ Veo สร้าง Audio ไม่ผ่าน! เดิม Flow ขึ้น 'Audio generation failed' แต่บอทไม่รู้ ปล่อยรอ timeout 20 นาที — ใหม่ดักจาก API ตรงๆ (status: FAILED) ไม่ขึ้นกับข้อความ Flow เปลี่ยน wording ยังจับได้ → skip ชุดถัดไปทันที ประหยัดเวลาเป็นชั่วโมง, 🤚 สไตล์เห็นแค่มือบังคับ 2 แขนเท่านั้น! ลูกค้าบ่นว่า AI งอกแขน 3-4 แขน ตอนนี้ใส่ข้อบังคับชัด — exactly 2 hands, anatomically correct, no extra arms, no duplicate hands ครอบ Manual + Auto + Image ทุกจุดที่เห็นแค่มือ, ⚙️ Audio fail detection สำหรับ Auto ฉากแรก + Story + Podcast (extend ใช้ retry เดิมไม่กระทบ), 🎨 รูปต่างกันทุกฉาก (Story-style) สำหรับ Auto ต่อฉาก — เร็วๆ นี้ รอติดตาม!",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.4.1/PD-Auto-VIP-v4.4.1-protected.zip"
+    },
     {
       "version": "4.4.0",
       "date": "2026-05-18",
