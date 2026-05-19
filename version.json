@@ -1,10 +1,16 @@
 {
-  "latest": "4.4.2",
+  "latest": "4.4.3",
   "releaseDate": "2026-05-19",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.4.2/PD-Auto-VIP-v4.4.2-protected.zip",
-  "changelog": "💳 PD Auto AI Credits — โชว์ครบในบอท! เห็น Tier + credits เหลือ + วันต่ออายุ + progress bar สวยๆ ไม่ต้องเปิดเว็บไปดูเอง อยู่ในหน้าตั้งค่า 'API Usage Stats', ⚠️ เตือนตอน credits ใกล้หมด! 80% เตือนสีเหลือง 95% เตือนสีแดง — ลูกค้ามีเวลาเตรียมตัวซื้อเพิ่มก่อนหมดจริง, 🚨 Credits หมด บอทหยุดเองอัตโนมัติ! ก่อนหน้านี้ credits หมดบอทเงียบๆใช้ fallback คลิปออกมาน่าเบื่อ ตอนนี้เด้ง Modal แจ้งชัด + หยุดบอททุก mode (Auto/Story/Podcast) มีปุ่มเปิด Dashboard ซื้อเพิ่มเลย, 📊 หน้าสถิติ API ปรับใหม่! ลบ ฿ ราคาออก แสดง 'Tokens' แทน — ลูกค้า PD Auto AI subscription ดูแล้วเข้าใจง่ายขึ้น ไม่งงเหมือนเดิม, 🔄 Auto-refresh credits ทุก 5 นาที — ดูสดๆได้ตลอด ไม่ต้องกด refresh เอง, 🎨 รูปต่างกันทุกฉาก (Story-style) สำหรับ Auto ต่อฉาก — เร็วๆ นี้ รอติดตาม!",
-  "required": false,
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.4.3/PD-Auto-VIP-v4.4.3-protected.zip",
+  "changelog": "🚨 Hotfix สำคัญ! ลูกค้าที่ใส่ PD Auto AI Key อย่างเดียว (ไม่มี Gemini/OpenAI/KIE) — แล้วกดรันบอทเจอแจ้ง 'กรุณาใส่ API Key' ทั้งที่ใส่แล้ว! บั๊กตอน v4.4.0-4.4.2 ที่ validation ของบอท 8 จุด ยังไม่นับ PD Auto AI เป็น API key ที่ใช้ได้ ทำให้ลูกค้าใหม่ที่ใช้ PD Gateway only โดน block 100% — ตอนนี้แก้แล้ว ลูกค้า PD Gateway only รันได้ทุก mode (Auto/Story/Podcast/Topic Loop/Scene 2)!, ✅ Error message ปรับใหม่ใส่ 'PD Auto AI' รวมด้วย — ลูกค้าเห็นชัดว่ารองรับ 4 providers ครบ, 💡 ถ้าใครเคยใส่ Key แล้วยังเจอ — โหลด v4.4.3 อัปเดต แล้วลองรันใหม่ได้ทันที ไม่ต้องตั้งค่าใหม่",
+  "required": true,
   "versions": [
+    {
+      "version": "4.4.3",
+      "date": "2026-05-19",
+      "changelog": "🚨 Hotfix สำคัญ! ลูกค้าที่ใส่ PD Auto AI Key อย่างเดียว (ไม่มี Gemini/OpenAI/KIE) — แล้วกดรันบอทเจอแจ้ง 'กรุณาใส่ API Key' ทั้งที่ใส่แล้ว! บั๊กตอน v4.4.0-4.4.2 ที่ validation ของบอท 8 จุด ยังไม่นับ PD Auto AI เป็น API key ที่ใช้ได้ ทำให้ลูกค้าใหม่ที่ใช้ PD Gateway only โดน block 100% — ตอนนี้แก้แล้ว ลูกค้า PD Gateway only รันได้ทุก mode (Auto/Story/Podcast/Topic Loop/Scene 2)!, ✅ Error message ปรับใหม่ใส่ 'PD Auto AI' รวมด้วย — ลูกค้าเห็นชัดว่ารองรับ 4 providers ครบ",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.4.3/PD-Auto-VIP-v4.4.3-protected.zip"
+    },
     {
       "version": "4.4.2",
       "date": "2026-05-19",
