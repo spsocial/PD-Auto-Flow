@@ -12,18 +12,6 @@
       "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.4.9/PD-Auto-VIP-v4.4.9-protected.zip"
     },
     {
-      "version": "4.4.8",
-      "date": "2026-05-22",
-      "changelog": "🎬 คลิป 8 วิ โพส TikTok + เซฟลงเครื่องได้แล้ว, ⏭️ ไม่ค้าง 20 นาทีตอนเฟล ข้ามทันที, 📊 Log สถานะ Direct API ครบทุก step + retry/error, ⏳ Smart retry 403: 5s → 30s → 60s, 🎭 ม่านเบลอ keep ไว้ตอน error (auto-hide 8s), 💬 แก้ป้ายพาดหัวไทยเพี้ยน scope เฉพาะ caption",
-      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.4.8/PD-Auto-VIP-v4.4.8-protected.zip"
-    },
-    {
-      "version": "4.4.7",
-      "date": "2026-05-22",
-      "changelog": "🚀 ระบบต่อฉากอัตโนมัติกลับมาทำงานได้แล้ว! รองรับ Flow update 20/5 — เปลี่ยนเป็นยิง API ตรง (API Direct Mode) ข้ามการกด UI เร็วขึ้น + เลี่ยง Yellow Bar + reCAPTCHA, ✨ Anti-abuse jitter ป้องกัน detect บอท, 🔁 Retry อัตโนมัติเวลา fail พร้อม cleanup placeholder, 🎬 รวมคลิปฝั่ง Flow server ตรงๆ + โพส TikTok เทพแบบ Auto Mode เดิม, 💡 ปิด UI ระบบต่อฉาก v2 (Merge) ชั่วคราว เพราะแนะนำใช้ระบบเดิมที่กลับมาเทพแล้ว",
-      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.4.7/PD-Auto-VIP-v4.4.7-protected.zip"
-    },
-    {
       "version": "4.4.6",
       "date": "2026-05-21",
       "changelog": "🚨 แก้บั๊กสำคัญ! บอทไม่สลับ tab กลับ Flow หลังโพส TikTok → Flow ไม่ active → คลิปต่อไปเฟล 403 ทั้งที่ไม่เฟลจริง. v4.4.6 สลับ tab กลับเสมอ เหมือนระบบเก่าเทพ ๆ ลดปัญหา 403 อย่างมาก",
