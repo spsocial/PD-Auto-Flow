@@ -1,10 +1,16 @@
 {
-  "latest": "4.5.2.0",
-  "releaseDate": "2026-05-27",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.5.2/PD-Auto-VIP-v4.5.2-protected.zip",
-  "changelog": "✨ v4.5.2 — 🎵 ใส่เพลงแทนเสียงต้นฉบับ (Post Mode BETA) + 💃 หมวดสไตล์เต้น 5 สไตล์ + 🗑️ ลบโปรเจคหลังเสร็จ + Express Fast model ทำงาน + แก้ Merge สโลโม 1080p, 🎵 **โหมดโพสคลิป — ใส่เพลงไลบรารี TikTok แทนเสียงคลิป** ติ๊ก '🎵 ใช้เพลงแทนเสียงต้นฉบับ' → กรอกชื่อเพลงไว้ (1 บรรทัด/เพลง) → บอทเปิด Sound Editor → ปิดเสียงต้นฉบับ → ค้นหา+กดเพลง → Save → ใส่แคปชั่นต่อปกติ — คลิปมากกว่าจำนวนเพลงบอทวนใช้ซ้ำ, 💃 **หมวด 'สไตล์เต้น' ใหม่ 5 สไตล์** — K-Style / เต้นน่ารักแบบไทย / J-Pop kawaii / TikTok ไวรัล / ขยับเบาๆน่ารัก — ทุกฉากเต้นต่อเนื่อง ไม่มีบทพูด **ไม่เปลือง API เลย** (Flow คิดข้อความหัวคลิปเอง), 🗑️ **ลบโปรเจคหลังบอททำเสร็จ** (Auto Mode) — ติ๊กกัน Flow project list เต็ม, 🚀 **Express Mode Fast ใช้งานได้** (Veo 3.1 - Fast → map ไปโมเดล Ultra Fast) + ฉาก 2+ ล็อคโมเดลฟรี — ลูกค้าเลือก Fast → ฉาก 1 เร็ว ฉาก 2+ ฟรีตลอด, 🎬 **Merge Mode 1080p ไม่สโลโมแล้ว** — ลด bitrate + capture 24fps + pause recorder ระหว่างฉาก + แก้บัก dropdown เลือกโมเดลไม่ทำงาน (Nano Banana 2 + Fast) + ดีเลย์ระหว่างชุดเหมือน Express + แก้ retry animate ผิดตอนใช้รูปเดิม, 📤 **Post Mode รันได้แม้ไม่ใส่ Product ID** — โหมดไม่ปักตะกร้าใช้งานได้, 🔧 แก้ J-Pop ออกเป็น anime / Thai cute ติดเหลือง / TikTok trend ภาพไกล / Conveyor belt สินค้าวิ่งมั่ว, 🧹 ลบ Veo Quality ออกจาก dropdown (ไม่มีใครใช้)",
+  "latest": "4.5.3.0",
+  "releaseDate": "2026-05-28",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.5.3/PD-Auto-VIP-v4.5.3-protected.zip",
+  "changelog": "🎉 v4.5.3 — **แก้บัค Express Mode 1080p/4K (พังมา 1 สัปดาห์!)** + เพลงในโหมด Auto + ปรับ Music UI ให้ตั้งแยกระหว่าง Post/Auto, 🚀 **Express Mode 1080p/4K ใช้งานได้จริง!** (ทั้ง Auto Mode + Story Mode) — แก้ 3 บัคซ้อนกัน: (1) ส่ง saveClipQuality ไม่ถึง content.js (2) credentials reject CDN download (3) priority block สลับ quality ค้างไฟล์เก่า. ตอนนี้ติ๊ก '💾 เซฟคลิป' + เลือก 1080p → ได้ 1080×1920 จริง ไฟล์ ~9 MB (ไม่ใช่ 720p ~7 MB เหมือนเดิม), 🎵 **เพลง Auto Mode** — เพิ่ม UI 'ใช้เพลงแทนเสียงต้นฉบับ' ในตั้งค่าโพส TikTok ของ Auto Mode (แยก settings จาก Post Mode — ตั้งคนละชุดได้). รองรับทั้ง Express + Merge sub-mode, 📋 ดูเอกสาร DEVNOTE สำหรับรายละเอียดการ ship + รายการแก้ทั้งหมด",
   "required": false,
   "versions": [
+    {
+      "version": "4.5.3.0",
+      "date": "2026-05-28",
+      "changelog": "🚀 v4.5.3 — แก้บัค Express 1080p/4K (พังมา ~1 สัปดาห์), 🎵 เพิ่ม UI ใส่เพลงใน Auto Mode (แยกจาก Post Mode), 📊 fix priority block สลับคุณภาพ",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.5.3/PD-Auto-VIP-v4.5.3-protected.zip"
+    },
     {
       "version": "4.5.2.0",
       "date": "2026-05-27",
