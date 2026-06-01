@@ -1,10 +1,16 @@
 {
-  "latest": "4.5.3.0",
-  "releaseDate": "2026-05-28",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.5.3/PD-Auto-VIP-v4.5.3-protected.zip",
-  "changelog": "🎉 v4.5.3 — **แก้บัค Express Mode 1080p/4K (พังมา 1 สัปดาห์!)** + เพลงในโหมด Auto + ปรับ Music UI ให้ตั้งแยกระหว่าง Post/Auto, 🚀 **Express Mode 1080p/4K ใช้งานได้จริง!** (ทั้ง Auto Mode + Story Mode) — แก้ 3 บัคซ้อนกัน: (1) ส่ง saveClipQuality ไม่ถึง content.js (2) credentials reject CDN download (3) priority block สลับ quality ค้างไฟล์เก่า. ตอนนี้ติ๊ก '💾 เซฟคลิป' + เลือก 1080p → ได้ 1080×1920 จริง ไฟล์ ~9 MB (ไม่ใช่ 720p ~7 MB เหมือนเดิม), 🎵 **เพลง Auto Mode** — เพิ่ม UI 'ใช้เพลงแทนเสียงต้นฉบับ' ในตั้งค่าโพส TikTok ของ Auto Mode (แยก settings จาก Post Mode — ตั้งคนละชุดได้). รองรับทั้ง Express + Merge sub-mode, 📋 ดูเอกสาร DEVNOTE สำหรับรายละเอียดการ ship + รายการแก้ทั้งหมด",
+  "latest": "4.5.4.0",
+  "releaseDate": "2026-06-01",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.5.4/PD-Auto-VIP-v4.5.4-protected.zip",
+  "changelog": "✨ v4.5.4 — **โหมดมือใหม่ (Beginner Mode)** ใหม่ล่าสุด! ตั้งค่าทีละ step แบบ Wizard ใช้ง่ายไม่งง + แก้บัค No-API ที่พังมานาน + อัพเกรด popup ตอนแนบตัวละครใน PM, 🎯 **✨ โหมดมือใหม่** — Toggle ที่หัวแท็บ Auto สลับระหว่าง Pro Mode (เขียว) กับ มือใหม่ (ม่วง+ชมพู) ใช้ engine + ตั้งค่าเดียวกับ Pro Mode 100% แค่ตั้งค่าง่ายขึ้น เป็น 5 ขั้นตอน (สไตล์ → ตัวละคร+เสียง → สินค้า → โมเดล AI → โพส) — รวมตัวละคร+เสียงหน้าเดียว แนบรูปเอง = เลือกเสียงให้ตรงเพศอัตโนมัติ มีเสียงครบ 25+ แบบ 8 กลุ่ม (วัยรุ่น/ผู้ใหญ่/ป้า-ลุง/อาชีพ/ตลก/เฮฮา ฯลฯ), 📺 รองรับอัพสเกล 720p/1080p/4K (Express) + ต่อฉาก 1-5 ฉาก + สุ่มจำนวนฉาก, 📦 Picker สินค้าตัวเดียวกับ Pro Mode + ถ้า DB ว่างจะบอกให้ไปแท็บ Shop ดึงสินค้าก่อน, 📋 Log mirror — รันค้างอยู่ในโหมดมือใหม่เลย ไม่ต้องสลับไป Pro Mode ดู log + การ์ดสรุปสวยๆ ตอนรันจบ, 🔧 **แก้บัค No-API Mode ที่พังมานาน** — log บอก 'ข้ามการคิดบทพูด' แต่โค้ดยังเรียก AI ทำให้ค้าง 4 นาทีทุกครั้ง (มีตั้งแต่ v4.5.1) — แก้ให้ skip จริงๆ ตอนนี้รันโดยไม่ใช้ API ได้ฟรีจริง, 🔧 **แก้ TypeError ของ Style** — บางสไตล์ (warehouse_fullbody ฯลฯ) ทำให้บอทค้างเงียบเพราะ key ไม่อยู่ในทั้ง 2 config — แก้ให้ resolve ทุก key ปลอดภัย, 💤 **PM popup แนบตัวละคร — ติ๊ก 'ไม่ต้องแจ้งอีกใน 24 ชม.'** — เหมาะกับคนใส่ตัวละครต่างกันต่อชุดสินค้า (ก่อนหน้านี้ popup เด้งทุกครั้งต้องปิดเอง), 📌 v4.5.4 ใช้ระบบ Express เท่านั้น เพื่อเริ่มต้นง่ายๆ ลูกค้าเก่าใช้ Pro Mode ได้เหมือนเดิม",
   "required": false,
   "versions": [
+    {
+      "version": "4.5.4.0",
+      "date": "2026-06-01",
+      "changelog": "✨ โหมดมือใหม่ Wizard 5 ขั้นตอน, 🔧 แก้บัค No-API ค้าง (พังมาตั้งแต่ v4.5.1), 🔧 แก้ TypeError ของ style key, 💤 PM popup แนบตัวละคร ติ๊ก 'ไม่ต้องแจ้งอีก 24 ชม.', 📋 Log mirror + การ์ดสรุปสวยๆ",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.5.4/PD-Auto-VIP-v4.5.4-protected.zip"
+    },
     {
       "version": "4.5.3.0",
       "date": "2026-05-28",
@@ -68,86 +74,8 @@
     {
       "version": "4.4.3",
       "date": "2026-05-19",
-      "changelog": "🚨 Hotfix สำคัญ! ลูกค้าที่ใส่ PD Auto AI Key อย่างเดียว (ไม่มี Gemini/OpenAI/KIE) — แล้วกดรันบอทเจอแจ้ง 'กรุณาใส่ API Key' ทั้งที่ใส่แล้ว! บั๊กตอน v4.4.0-4.4.2 ที่ validation ของบอท 8 จุด ยังไม่นับ PD Auto AI เป็น API key ที่ใช้ได้ ทำให้ลูกค้าใหม่ที่ใช้ PD Gateway only โดน block 100% — ตอนนี้แก้แล้ว ลูกค้า PD Gateway only รันได้ทุก mode (Auto/Story/Podcast/Topic Loop/Scene 2)!, ✅ Error message ปรับใหม่ใส่ 'PD Auto AI' รวมด้วย — ลูกค้าเห็นชัดว่ารองรับ 4 providers ครบ",
+      "changelog": "🚨 Hotfix สำคัญ! ลูกค้าที่ใส่ PD Auto AI Key อย่างเดียว (ไม่มี Gemini/OpenAI/KIE) — แล้วกดรันบอทเจอแจ้ง 'กรุณาใส่ API Key' ทั้งที่ใส่แล้ว!",
       "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.4.3/PD-Auto-VIP-v4.4.3-protected.zip"
-    },
-    {
-      "version": "4.4.2",
-      "date": "2026-05-19",
-      "changelog": "💳 PD Auto AI Credits — โชว์ครบในบอท! เห็น Tier + credits เหลือ + วันต่ออายุ + progress bar สวยๆ ไม่ต้องเปิดเว็บไปดูเอง อยู่ในหน้าตั้งค่า 'API Usage Stats', ⚠️ เตือนตอน credits ใกล้หมด! 80% เตือนสีเหลือง 95% เตือนสีแดง — ลูกค้ามีเวลาเตรียมตัวซื้อเพิ่มก่อนหมดจริง, 🚨 Credits หมด บอทหยุดเองอัตโนมัติ!",
-      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.4.2/PD-Auto-VIP-v4.4.2-protected.zip"
-    },
-    {
-      "version": "4.4.1",
-      "date": "2026-05-18",
-      "changelog": "🐛 แก้บั๊กบทพูดฉาก 2 หายเป็น 3 จุดจุดจุด! ภาษาไทยเขียนติดกันไม่มี space — splitter ของเก่าแบ่งไม่ได้ ฉาก 2 เลยว่าง บอทใช้ default fallback แทน คลิปเลยพูดน่าเบื่อ ตอนนี้แก้ใหม่ ตัดที่จุดธรรมชาติ (ค่ะ/ครับ/นะ/เลย/มาก/แล้ว) ฉาก 2 ได้บทพูดเต็มทุกครั้ง!, 🔒 บอทรู้แล้วเมื่อ Veo สร้าง Audio ไม่ผ่าน, 🤚 สไตล์เห็นแค่มือบังคับ 2 แขนเท่านั้น",
-      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.4.1/PD-Auto-VIP-v4.4.1-protected.zip"
-    },
-    {
-      "version": "4.4.0",
-      "date": "2026-05-18",
-      "changelog": "✨ ของใหม่ใหญ่! PD Auto AI — Key เดียว ใช้ได้ทุกโมเดล (Gemini 2.5/3, GPT-5.4/5.5, Claude Haiku/Sonnet/Opus, รวม 12+ โมเดล) ไม่ต้องสมัคร OpenAI/Gemini/Claude แยกอีก",
-      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.4.0/PD-Auto-VIP-v4.4.0-protected.zip"
-    },
-    {
-      "version": "4.3.9",
-      "date": "2026-05-15",
-      "changelog": "🏗️ ปรับปรุงสไตล์สายพานผลิต กล้องนิ่ง Scene 2+ ต่อเนื่อง, 👤 สายพานผลิตไม่ยัดตัวละครเข้าฉากแล้ว, 🏷️ ป้ายโปรโมชันบังคับภาษาไทย, 🎤 แก้บั๊กเสียง 'ไม่มีคน' เพศตรงตามตั้งไว้",
-      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3.9/PD-Auto-VIP-v4.3.9-protected.zip"
-    },
-    {
-      "version": "4.3.8",
-      "date": "2026-05-15",
-      "changelog": "🏷️ ป้ายโปรโมชันมีให้เลือกสไตล์ 6 สไตล์, ✨ เลือกฟอนต์ข้อความพาดหัว 10 สไตล์, 🏭 ปรับปรุงโกดัง + โรงงานขายส่ง, 🏗️ สไตล์ใหม่ 'สายพานผลิต', 🖼️ ตั้งข้อความบนภาพแยกแต่ละชุดสินค้าใน PM, 💾 ระบบเซฟไฟล์ครบทุกฟิลด์",
-      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3.8/PD-Auto-VIP-v4.3.8-protected.zip"
-    },
-    {
-      "version": "4.3.7",
-      "date": "2026-05-14",
-      "changelog": "✨ AI คิดบทพูดหลากหลายขึ้น สุ่ม 1 ใน 7 มุม, 🔁 Hook หมุนเรียงตามลำดับ, 🎤 โหมดสตอรี่เพิ่มเสียงคนแก่ + custom voice, 🏭 ปรับสไตล์โกดัง + โรงงานขายส่ง",
-      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3.7/PD-Auto-VIP-v4.3.7-protected.zip"
-    },
-    {
-      "version": "4.3.6",
-      "date": "2026-05-14",
-      "changelog": "➕ ปุ่ม DB ใหม่ใน Product Manager, 📜 ประวัติเวอร์ชันในหน้าตั้งค่า, 🤖 ปุ่ม Auto Fix ชื่อ + AI คิด Hook ทุกชุด",
-      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3.6/PD-Auto-VIP-v4.3.6-protected.zip"
-    },
-    {
-      "version": "4.3.5",
-      "date": "2026-05-14",
-      "changelog": "🐛 Hotfix: แก้ popup 'มีคลิปค้างใน IDB' เด้งซ้ำใน Story Mode",
-      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3.5/PD-Auto-VIP-v4.3.5-protected.zip"
-    },
-    {
-      "version": "4.3.4",
-      "date": "2026-05-13",
-      "changelog": "🧪 โหมดตรวจคลิปก่อนโพส (Podcast + Story), ⚠️ Popup เด้งแจ้งวิธีแก้เมื่อ Flow บล็อค, 🐛 แก้บั๊ก Podcast โพส TikTok ไม่ปักตะกร้า",
-      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3.4/PD-Auto-VIP-v4.3.4-protected.zip"
-    },
-    {
-      "version": "4.3.3",
-      "date": "2026-05-13",
-      "changelog": "📊 ระบบนับ Token + ค่าใช้จ่าย API, 🎙️ Podcast Mode อัพเกรดใหญ่, 🛍️ Multi-Product Queue ใน Podcast",
-      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3.3/PD-Auto-VIP-v4.3.3-protected.zip"
-    },
-    {
-      "version": "4.3.2",
-      "date": "2026-05-11",
-      "changelog": "🔄 รองรับ Flow ถอด Fast Lower, 🎙️ แก้เสียงสลับเพศในสไตล์เห็นแค่มือ",
-      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3.2/PD-Auto-VIP-v4.3.2-protected.zip"
-    },
-    {
-      "version": "4.3.1",
-      "date": "2026-05-08",
-      "changelog": "🎯 ต่อฉาก (extend) ใช้ MAIN world click — ไม่มี Yellow Bar",
-      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3.1/PD-Auto-VIP-v4.3.1-protected.zip"
-    },
-    {
-      "version": "4.3",
-      "date": "2026-05-08",
-      "changelog": "⚡ MAIN world click — กดปุ่ม Generate ผ่าน React โดยตรง ไม่มี Yellow Bar",
-      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.3/PD-Auto-VIP-v4.3-protected.zip"
     }
   ]
 }
