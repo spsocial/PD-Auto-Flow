@@ -1,10 +1,16 @@
 {
-  "latest": "4.6.7.0",
-  "releaseDate": "2026-06-22",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.6.7/PD-Auto-VIP-v4.6.7-protected.zip",
-  "changelog": "🔧 แก้บั๊กโหมดต่อฉาก/สตอรี่ค้างที่ขั้น \"รอ video blob\" (ดาวน์โหลดคลิปไม่จบ ค้างยาวจนเฟล) — สาเหตุ Google Flow ทยอยเปลี่ยนวิธีดาวน์โหลดบางบัญชี ทำให้บอทดักไฟล์ไม่ติด · เพิ่มระบบสำรองดึงวิดีโอจากหน้าอัตโนมัติเมื่อวิธีปกติไม่ติด + log วินิจฉัยในตัว · ใครใช้งานปกติอยู่แล้วไม่มีอะไรเปลี่ยน",
+  "latest": "4.6.8.0",
+  "releaseDate": "2026-06-23",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.6.8/PD-Auto-VIP-v4.6.8-protected.zip",
+  "changelog": "💳 หน้าตั้งค่า PD Auto AI: อัปข้อความค่าใช้จ่ายให้ตรงระบบใหม่ — คิดตาม token จริง (input+output) · 1 credit = ฿0.10 ใช้น้อยจ่ายน้อย + ลิงก์ดูเรตทุกโมเดล · 🗑️ เอาโมเดลฟรีที่ถูกปิดไปแล้ว (Hermes 405B) ออก กันเลือกแล้วขึ้น error · 🛡️ ปุ่ม Report → Google Flow เพิ่มหน้าต่างยืนยันก่อนส่ง + แยกปุ่มให้เด่นน้อยลง กันกดผิดส่งรายงานไป Google โดยไม่ตั้งใจ",
   "required": false,
   "versions": [
+    {
+      "version": "4.6.8.0",
+      "date": "2026-06-23",
+      "changelog": "💳 หน้าตั้งค่า PD Auto AI: อัปข้อความค่าใช้จ่ายให้ตรงระบบใหม่ — คิดตาม token จริง (input+output) · 1 credit = ฿0.10 ใช้น้อยจ่ายน้อย + ลิงก์ดูเรตทุกโมเดล · 🗑️ เอาโมเดลฟรีที่ถูกปิดไปแล้ว (Hermes 405B) ออก กันเลือกแล้วขึ้น error · 🛡️ ปุ่ม Report → Google Flow เพิ่มหน้าต่างยืนยันก่อนส่ง + แยกปุ่มให้เด่นน้อยลง กันกดผิดส่งรายงานไป Google โดยไม่ตั้งใจ",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.6.8/PD-Auto-VIP-v4.6.8-protected.zip"
+    },
     {
       "version": "4.6.7.0",
       "date": "2026-06-22",
