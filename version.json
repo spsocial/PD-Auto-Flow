@@ -1,10 +1,16 @@
 {
-  "latest": "4.6.8.0",
-  "releaseDate": "2026-06-23",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.6.8/PD-Auto-VIP-v4.6.8-protected.zip",
-  "changelog": "💳 หน้าตั้งค่า PD Auto AI: อัปข้อความค่าใช้จ่ายให้ตรงระบบใหม่ — คิดตาม token จริง (input+output) · 1 credit = ฿0.10 ใช้น้อยจ่ายน้อย + ลิงก์ดูเรตทุกโมเดล · 🗑️ เอาโมเดลฟรีที่ถูกปิดไปแล้ว (Hermes 405B) ออก กันเลือกแล้วขึ้น error · 🛡️ ปุ่ม Report → Google Flow เพิ่มหน้าต่างยืนยันก่อนส่ง + แยกปุ่มให้เด่นน้อยลง กันกดผิดส่งรายงานไป Google โดยไม่ตั้งใจ",
+  "latest": "4.6.9.0",
+  "releaseDate": "2026-06-26",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.6.9/PD-Auto-VIP-v4.6.9-protected.zip",
+  "changelog": "🔧 บอทแจ้งสาเหตุชัดขึ้น! เวลาคิดบทพูดไม่สำเร็จในโหมดต่อฉาก/Express (ฉาก 2 ขึ้นต้นใหม่ไม่ต่อเนื่องกับฉาก 1) — เดิมขึ้นแค่ \"AI คิดบทไม่ได้\" เดาสาเหตุไม่ถูก · ตอนนี้บอกสาเหตุจริงให้เห็นเลย เช่น คีย์ PD หมดอายุ / เครดิตไม่พอ / โมเดลโดน rate-limit → รู้ทันทีว่าต้องแก้ตรงไหน (ส่วนใหญ่คือต่ออายุคีย์ หรือสลับโมเดลเป็น Gemini 2.5 Flash) · 🪟 ปุ่มส่งรายงานปัญหาไป Google Flow เปลี่ยนเป็นหน้าต่างยืนยันสวยๆ กันกดผิด",
   "required": false,
   "versions": [
+    {
+      "version": "4.6.9.0",
+      "date": "2026-06-26",
+      "changelog": "🔧 บอทแจ้งสาเหตุชัดขึ้น! เวลาคิดบทพูดไม่สำเร็จในโหมดต่อฉาก/Express (ฉาก 2 ขึ้นต้นใหม่ไม่ต่อเนื่อง) — เดิมขึ้นแค่ \"AI คิดบทไม่ได้\" เดาไม่ถูก · ตอนนี้บอกสาเหตุจริง เช่น คีย์ PD หมดอายุ / เครดิตไม่พอ / โมเดลโดน rate-limit → รู้ทันทีว่าต้องแก้ตรงไหน (ต่ออายุคีย์ หรือสลับโมเดลเป็น Gemini 2.5 Flash) · 🪟 ปุ่ม Report → Google Flow เปลี่ยนเป็นหน้าต่างยืนยันสวยๆ กันกดผิด",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.6.9/PD-Auto-VIP-v4.6.9-protected.zip"
+    },
     {
       "version": "4.6.8.0",
       "date": "2026-06-23",
