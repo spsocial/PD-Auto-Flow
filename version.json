@@ -1,10 +1,16 @@
 {
-  "latest": "4.7.11",
-  "releaseDate": "2026-07-24",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.7.11/PD-Auto-VIP-v4.7.11-protected.zip",
-  "changelog": "🔴 แก้บั๊กใหญ่ เจนวิดีโอไม่ได้ (Flow API 400)! Google เปลี่ยนชื่อโมเดลวิดีโอฟรี → บอทส่งคีย์เก่า = เจนวิดีโอเฟลทุกครั้ง (เจนภาพได้ แต่คลิปไม่ออก) · แก้เป็นคีย์ใหม่แล้ว ฟรี 0 เครดิตเหมือนเดิม ใช้ได้ทั้งฉากเดียว+ต่อฉาก · ⏱️ แก้ Omni Flash 10 วิ ได้คลิปแค่ 8 วิ (โหมด Merge — แท็บ 10s คลิกไม่ทันเรนเดอร์ ตกเป็น 8 วิ = บทพูดโดนตัด) retry รอแท็บ 10s โผล่ก่อน",
+  "latest": "4.7.12",
+  "releaseDate": "2026-07-27",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.7.12/PD-Auto-VIP-v4.7.12-protected.zip",
+  "changelog": "🎨 เพิ่มสไตล์พ๊อมของฉัน (BYO prompt) — ใส่พ๊อมภาพ+คลิปเองได้ เซฟถาวร ใช้ซ้ำได้ (เหมือนใน PD App) · ติ๊กใช้ = ข้ามสูตร/สไตล์/overlay ระบบ 100% ใช้พ๊อมของคุณล้วนๆ · AI เติมเฉพาะตัวแปร {{สินค้า}}/{{บทพูด}}/{{พาดหัว}}/{{จุดเด่น}}",
   "required": false,
   "versions": [
+    {
+      "version": "4.7.12",
+      "date": "2026-07-27",
+      "changelog": "🎨 เพิ่มสไตล์พ๊อมของฉัน (BYO prompt) — ใส่พ๊อมภาพ+คลิปเองได้ เซฟถาวร ใช้ซ้ำได้ (เหมือนใน PD App) · ติ๊กใช้ = ข้ามสูตร/สไตล์/overlay ระบบ 100% ใช้พ๊อมของคุณล้วนๆ · AI เติมเฉพาะตัวแปร {{สินค้า}}/{{บทพูด}}/{{พาดหัว}}/{{จุดเด่น}}",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.7.12/PD-Auto-VIP-v4.7.12-protected.zip"
+    },
     {
       "version": "4.7.11",
       "date": "2026-07-24",
