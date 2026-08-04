@@ -1,10 +1,16 @@
 {
-  "latest": "4.7.17",
-  "releaseDate": "2026-08-04",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.7.17/PD-Auto-VIP-v4.7.17-protected.zip",
-  "changelog": "🩹 Hotfix ต่อจาก v4.7.16 — กันโพสต์เบิ้ล 2 โพสต์/คลิป (ปุ่มยืนยัน Post now ถูกกดซ้ำตอนหน้า TikTok อืด เช่นคลิปที่เพิ่งใส่เพลง) · ตอนนี้กดครั้งเดียวเสมอ · แนะนำอัพเดตโดยเฉพาะคนใช้เพลง+ปักตะกร้า",
+  "latest": "4.7.18",
+  "releaseDate": "2026-08-05",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.7.18/PD-Auto-VIP-v4.7.18-protected.zip",
+  "changelog": "🩹 แก้ 3 ตั้งค่าที่ไม่เซฟ (ลูกค้าแจ้งซ้ำๆ ต้องตั้งใหม่ทุกครั้งที่เปิด-ปิดบอท): 🎨 สไตล์พาดหัว · 🎲 AI สุ่ม Hook (เพศ/จำนวน/ท่อนเปิด) · 🚫 ติ๊กไม่เอาแคปชั่น — ตอนนี้จำค่าให้อัตโนมัติแล้ว ไม่ต้องตั้งใหม่",
   "required": false,
   "versions": [
+    {
+      "version": "4.7.18",
+      "date": "2026-08-05",
+      "changelog": "🩹 แก้ 3 ตั้งค่าที่ไม่เซฟ (ลูกค้าแจ้งซ้ำๆ ต้องตั้งใหม่ทุกครั้งที่เปิด-ปิดบอท): 🎨 สไตล์พาดหัว · 🎲 AI สุ่ม Hook (เพศ/จำนวน/ท่อนเปิด) · 🚫 ติ๊กไม่เอาแคปชั่น — ตอนนี้จำค่าให้อัตโนมัติแล้ว ไม่ต้องตั้งใหม่",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.7.18/PD-Auto-VIP-v4.7.18-protected.zip"
+    },
     {
       "version": "4.7.17",
       "date": "2026-08-04",
