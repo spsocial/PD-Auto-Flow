@@ -1,10 +1,16 @@
 {
-  "latest": "4.7.16",
+  "latest": "4.7.17",
   "releaseDate": "2026-08-04",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.7.16/PD-Auto-VIP-v4.7.16-protected.zip",
-  "changelog": "🎵 แก้ระบบใส่เพลงทั้งระบบ — TikTok ปิดระบบค้นหาเพลงในหน้าโพสต์แล้ว (ค้นหาแล้ว No results ทุกคำ ไม่ใช่บั๊กบอท) · เปลี่ยนเป็นเลือกจากลิสต์: 🎯 สุ่มจากเพลงที่กดถูกใจไว้ (คุมชุดเพลงเองได้ — กดถูกใจเพลงในแอป TikTok สะสมไว้) หรือ 🎲 สุ่มจากเพลงแนะนำ For You · สุ่มใหม่ทุกคลิป · ปัด popup Phone mode ที่บังตัวแก้ไขเสียง + เปิดไม่ติดลองใหม่ 3 รอบ + ใส่เพลงเฟล = โพสต์ต่อด้วยเสียงต้นฉบับ (เดิมค้างทำโพสต์ล้ม)",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.7.17/PD-Auto-VIP-v4.7.17-protected.zip",
+  "changelog": "🩹 Hotfix ต่อจาก v4.7.16 — กันโพสต์เบิ้ล 2 โพสต์/คลิป (ปุ่มยืนยัน Post now ถูกกดซ้ำตอนหน้า TikTok อืด เช่นคลิปที่เพิ่งใส่เพลง) · ตอนนี้กดครั้งเดียวเสมอ · แนะนำอัพเดตโดยเฉพาะคนใช้เพลง+ปักตะกร้า",
   "required": false,
   "versions": [
+    {
+      "version": "4.7.17",
+      "date": "2026-08-04",
+      "changelog": "🩹 Hotfix ต่อจาก v4.7.16 — กันโพสต์เบิ้ล 2 โพสต์/คลิป (ปุ่มยืนยัน Post now ถูกกดซ้ำตอนหน้า TikTok อืด เช่นคลิปที่เพิ่งใส่เพลง) · ตอนนี้กดครั้งเดียวเสมอ · แนะนำอัพเดตโดยเฉพาะคนใช้เพลง+ปักตะกร้า",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.7.17/PD-Auto-VIP-v4.7.17-protected.zip"
+    },
     {
       "version": "4.7.16",
       "date": "2026-08-04",
