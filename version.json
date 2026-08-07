@@ -1,10 +1,16 @@
 {
-  "latest": "4.7.19",
-  "releaseDate": "2026-08-05",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.7.19/PD-Auto-VIP-v4.7.19-protected.zip",
-  "changelog": "🎬 Story เลือกได้ถึง 50 ฉาก (~6.7 นาที) + fix เกิน 15 ฉากแล้ว parse storyboard พัง (เพดานโทเคนสเกลตามฉากทุกช่องทาง AI)",
+  "latest": "4.7.20",
+  "releaseDate": "2026-08-07",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.7.20/PD-Auto-VIP-v4.7.20-protected.zip",
+  "changelog": "🎨 fix สไตล์พ้อมของฉัน: ตัวแปร {{จุดเด่น}}/{{พาดหัว}} กลายเป็นค่าว่างในพ้อมที่ส่งเข้า Flow — ตอนนี้ใช้สรรพคุณ/จุดเด่นที่กรอกในชุดสินค้าก่อน (Express+Merge) ไม่มีค่อยให้ AI คิด+ลองซ้ำ ไม่ปล่อยว่างอีก",
   "required": false,
   "versions": [
+    {
+      "version": "4.7.20",
+      "date": "2026-08-07",
+      "changelog": "🎨 fix สไตล์พ้อมของฉัน: ตัวแปร {{จุดเด่น}}/{{พาดหัว}} กลายเป็นค่าว่างในพ้อมที่ส่งเข้า Flow — ตอนนี้ใช้สรรพคุณ/จุดเด่นที่กรอกในชุดสินค้าก่อน (Express+Merge) ไม่มีค่อยให้ AI คิด+ลองซ้ำ ไม่ปล่อยว่างอีก",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.7.20/PD-Auto-VIP-v4.7.20-protected.zip"
+    },
     {
       "version": "4.7.19",
       "date": "2026-08-05",
