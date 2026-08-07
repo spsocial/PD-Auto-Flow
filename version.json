@@ -1,10 +1,16 @@
 {
-  "latest": "4.7.20",
+  "latest": "4.7.21",
   "releaseDate": "2026-08-07",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.7.20/PD-Auto-VIP-v4.7.20-protected.zip",
-  "changelog": "🎨 fix สไตล์พ้อมของฉัน: ตัวแปร {{จุดเด่น}}/{{พาดหัว}} กลายเป็นค่าว่างในพ้อมที่ส่งเข้า Flow — ตอนนี้ใช้สรรพคุณ/จุดเด่นที่กรอกในชุดสินค้าก่อน (Express+Merge) ไม่มีค่อยให้ AI คิด+ลองซ้ำ ไม่ปล่อยว่างอีก",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.7.21/PD-Auto-VIP-v4.7.21-protected.zip",
+  "changelog": "🌍 ตั้งค่าใหม่ ภาษา Caption + Hashtags — เลือก English = AI เขียนแคปชั่น/แฮชแท็กอังกฤษล้วนทุกโพสต์ (สายตลาดต่างประเทศ) · ค่าเริ่มต้นไทยเหมือนเดิม จำค่าถาวร",
   "required": false,
   "versions": [
+    {
+      "version": "4.7.21",
+      "date": "2026-08-07",
+      "changelog": "🌍 ตั้งค่าใหม่ ภาษา Caption + Hashtags — เลือก English = AI เขียนแคปชั่น/แฮชแท็กอังกฤษล้วนทุกโพสต์ (สายตลาดต่างประเทศ) · ค่าเริ่มต้นไทยเหมือนเดิม จำค่าถาวร",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.7.21/PD-Auto-VIP-v4.7.21-protected.zip"
+    },
     {
       "version": "4.7.20",
       "date": "2026-08-07",
