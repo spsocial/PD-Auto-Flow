@@ -1,10 +1,15 @@
 {
-  "latest": "4.7.22",
-  "releaseDate": "2026-08-10",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.7.22/PD-Auto-VIP-v4.7.22-protected.zip",
-  "changelog": "🎬 แก้เจนวิดีโอเฟล Flow API 400 — Google เข้มลิมิตความยาวพรอมต์ใหม่ ระบบ ✂️ ตัดพรอมต์อัตโนมัติแล้วลองใหม่เอง (สินค้าเด็ก/บทยาว อาการได้บ้างไม่ได้บ้าง)",
+  "latest": "4.7.23",
+  "releaseDate": "2026-08-13",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.7.23/PD-Auto-VIP-v4.7.23-protected.zip",
+  "changelog": "🎬 โหมด Story เลือกจำนวนฉากได้ครบทุกเลข 1-50 (เดิมหลัง 20 กระโดดทีละ 5 — 25/30/35 เลือกเลขกลางไม่ได้) ตอนนี้เรียงต่อเนื่อง 21,22,23,... เลือกได้ทุกจำนวน",
   "required": false,
   "versions": [
+    {
+      "version": "4.7.23",
+      "date": "2026-08-13",
+      "note": "🎬 โหมด Story เลือกจำนวนฉากครบทุกเลข 1-50 (เดิมข้าม 25/30/35) — เลือกเรียงต่อเนื่องได้ทุกจำนวน"
+    },
     {
       "version": "4.7.22",
       "note": "🎬 แก้เจนวิดีโอเฟล Flow API 400 (Google เข้มลิมิตพรอมต์) — ✂️ ตัดพรอมต์อัตโนมัติ 2 ระดับ + ปรับ payload ตรงเว็บล่าสุด"
