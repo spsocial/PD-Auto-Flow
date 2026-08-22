@@ -1,10 +1,16 @@
 {
-  "latest": "4.7.24",
-  "releaseDate": "2026-08-22",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.7.24/PD-Auto-VIP-v4.7.24-protected.zip",
-  "changelog": "🐛 แก้คำสั่งเพิ่มเติมให้ AI ไม่ถูกนำไปใส่ในฉาก 2 เป็นต้นไป (ต่อฉาก) — เดิมโหมด Story/Auto ใส่แค่ฉากแรก ตอนนี้ต่อท้าย video prompt ครบทุกฉาก",
+  "latest": "4.7.25",
+  "releaseDate": "2026-08-23",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.7.25/PD-Auto-VIP-v4.7.25-protected.zip",
+  "changelog": "🩹 ถอย: คำสั่งเพิ่มเติมให้ AI ไม่ไปแปะฉาก 2+ อีก (ใช้เฉพาะฉาก 1 เหมือนเดิม — ฉากต่อไม่เพี้ยน) · ✅ บทพูดตรงๆ คั่นด้วย | ต่อฉาก: กรอกบทฉาก1 | บทฉาก2 + ติ๊กใช้บทนี้ตรงๆ → ฉาก 2 ใช้บทที่พิมพ์เป๊ะ",
   "required": false,
   "versions": [
+    {
+      "version": "4.7.25",
+      "date": "2026-08-23",
+      "note": "🩹 ถอยคำสั่งเพิ่มเติมออกจากฉาก 2+ (ฉากต่อไม่เพี้ยน) · ✅ บทพูดตรงๆ คั่นด้วย | ต่อฉากใช้บทที่พิมพ์เป๊ะทุกฉาก",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.7.25/PD-Auto-VIP-v4.7.25-protected.zip"
+    },
     {
       "version": "4.7.24",
       "date": "2026-08-22",
