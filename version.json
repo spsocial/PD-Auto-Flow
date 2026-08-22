@@ -1,10 +1,16 @@
 {
-  "latest": "4.7.23",
-  "releaseDate": "2026-08-13",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.7.23/PD-Auto-VIP-v4.7.23-protected.zip",
-  "changelog": "🎬 โหมด Story เลือกจำนวนฉากได้ครบทุกเลข 1-50 (เดิมหลัง 20 กระโดดทีละ 5 — 25/30/35 เลือกเลขกลางไม่ได้) ตอนนี้เรียงต่อเนื่อง 21,22,23,... เลือกได้ทุกจำนวน",
+  "latest": "4.7.24",
+  "releaseDate": "2026-08-22",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.7.24/PD-Auto-VIP-v4.7.24-protected.zip",
+  "changelog": "🐛 แก้คำสั่งเพิ่มเติมให้ AI ไม่ถูกนำไปใส่ในฉาก 2 เป็นต้นไป (ต่อฉาก) — เดิมโหมด Story/Auto ใส่แค่ฉากแรก ตอนนี้ต่อท้าย video prompt ครบทุกฉาก",
   "required": false,
   "versions": [
+    {
+      "version": "4.7.24",
+      "date": "2026-08-22",
+      "note": "🐛 แก้คำสั่งเพิ่มเติมให้ AI ไม่เข้าฉาก 2+ (ต่อฉาก) — โหมด Story/Auto เดิมใส่แค่ฉากแรก ตอนนี้ครบทุกฉาก",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.7.24/PD-Auto-VIP-v4.7.24-protected.zip"
+    },
     {
       "version": "4.7.23",
       "date": "2026-08-13",
