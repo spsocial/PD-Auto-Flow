@@ -1,10 +1,16 @@
 {
-  "latest": "4.7.25",
-  "releaseDate": "2026-08-23",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.7.25/PD-Auto-VIP-v4.7.25-protected.zip",
-  "changelog": "🩹 ถอย: คำสั่งเพิ่มเติมให้ AI ไม่ไปแปะฉาก 2+ อีก (ใช้เฉพาะฉาก 1 เหมือนเดิม — ฉากต่อไม่เพี้ยน) · ✅ บทพูดตรงๆ คั่นด้วย | ต่อฉาก: กรอกบทฉาก1 | บทฉาก2 + ติ๊กใช้บทนี้ตรงๆ → ฉาก 2 ใช้บทที่พิมพ์เป๊ะ",
+  "latest": "4.7.26",
+  "releaseDate": "2026-08-31",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.7.26/PD-Auto-VIP-v4.7.26-protected.zip",
+  "changelog": "🩹 แก้คลิปต่อฉากสั้นไป 1 วิ — Google ลดความยาวคลิป (8→7.5 วิ) โค้ดเลยตัดหัวเกิน ต่อ 2 ฉากได้ 14 วิ (ปกติ 15) · แก้ให้ตรงพฤติกรรมจริงของ Flow (extend เนียนเองไม่ต้องตัด) → กลับมาเต็ม ~15 วิ",
   "required": false,
   "versions": [
+    {
+      "version": "4.7.26",
+      "date": "2026-08-31",
+      "note": "🩹 แก้ต่อฉากได้ 15 วิ (เดิม 14) — Google ลดคลิปเหลือ 7.5 วิ โค้ดตัดหัวเกิน · แก้ให้ไม่ตัด extend (เนียนเองอยู่แล้ว)",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.7.26/PD-Auto-VIP-v4.7.26-protected.zip"
+    },
     {
       "version": "4.7.25",
       "date": "2026-08-23",
