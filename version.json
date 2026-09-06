@@ -1,15 +1,15 @@
 {
-  "latest": "4.8.0",
-  "releaseDate": "2026-09-03",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.8.0/PD-Auto-VIP-v4.8.0-protected.zip",
-  "changelog": "🌐 รองรับ Flow แอปใหม่ (flow.google.com) แล้ว! — Google กำลังทยอยย้ายผู้ใช้ไปแอปใหม่ ใครโดนย้ายแล้วบอทจะทำงานไม่ได้ · เวอร์ชันนี้บอทเช็คเองว่าอยู่แอปเก่าหรือใหม่ แล้วเลือกวิธีทำงานให้ถูกอัตโนมัติ (สร้างโปรเจ็ค · สร้างภาพ · สร้างวิดีโอ · ต่อฉาก · อัปสเกล 1080p · ลบโปรเจ็ค ครบ) · ใครยังอยู่แอปเก่า labs.google ใช้ได้เหมือนเดิม 100% · ต่อฉากบนแอปใหม่ = ดึงคลิปรายฉากมารวมด้วยตัวรวมคลิปในตัว (เปิดหน้าต่างบอทค้างไว้ตอนทำงาน)",
+  "latest": "4.8.1",
+  "releaseDate": "2026-09-06",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.8.1/PD-Auto-VIP-v4.8.1-protected.zip",
+  "changelog": "📢 Google เปลี่ยนหน้า Flow ใหม่ — MERGE MODE ใช้ไม่ได้แล้ว (ปิดไว้) · บังคับใช้ EXPRESS อัตโนมัติ · แก้อัปโหลดรูปไม่ผ่านบน Flow ใหม่ (recaptcha) · 🚀 อยากได้ระบบที่ดีกว่า ย้ายไป PD App ใช้คีย์เดิมได้เลย",
   "required": false,
   "versions": [
     {
-      "version": "4.8.0",
-      "date": "2026-09-03",
-      "changelog": "🌐 รองรับ Flow แอปใหม่ (flow.google.com) แล้ว! — Google กำลังทยอยย้ายผู้ใช้ไปแอปใหม่ ใครโดนย้ายแล้วบอทจะทำงานไม่ได้ · เวอร์ชันนี้บอทเช็คเองว่าอยู่แอปเก่าหรือใหม่ แล้วเลือกวิธีทำงานให้ถูกอัตโนมัติ (สร้างโปรเจ็ค · สร้างภาพ · สร้างวิดีโอ · ต่อฉาก · อัปสเกล 1080p · ลบโปรเจ็ค ครบ) · ใครยังอยู่แอปเก่า labs.google ใช้ได้เหมือนเดิม 100% · ต่อฉากบนแอปใหม่ = ดึงคลิปรายฉากมารวมด้วยตัวรวมคลิปในตัว (เปิดหน้าต่างบอทค้างไว้ตอนทำงาน)",
-      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.8.0/PD-Auto-VIP-v4.8.0-protected.zip"
+      "version": "4.8.1",
+      "date": "2026-09-06",
+      "changelog": "📢 Google เปลี่ยนหน้า Flow ใหม่ — MERGE MODE ใช้ไม่ได้แล้ว (ปิดไว้) · บังคับใช้ EXPRESS อัตโนมัติ · แก้อัปโหลดรูปไม่ผ่านบน Flow ใหม่ (recaptcha) · 🚀 อยากได้ระบบที่ดีกว่า ย้ายไป PD App ใช้คีย์เดิมได้เลย",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.8.1/PD-Auto-VIP-v4.8.1-protected.zip"
     },
     {
       "version": "4.7.26",
