@@ -1,10 +1,16 @@
 {
-  "latest": "4.9.0",
-  "releaseDate": "2026-09-09",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.0/PD-Auto-VIP-v4.9.0-protected.zip",
-  "changelog": "🛡️ Merge Mode ใช้ได้บน Flow หน้าใหม่ (flow.google.com) แล้ว — ตั้งค่า/แนบ ref/ลองใหม่เมื่อเฟล/โหลดคลิป ครบเหมือนเดิม · หน้าเก่ายังใช้ได้ปกติ",
+  "latest": "4.9.2",
+  "releaseDate": "2026-09-10",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.2/PD-Auto-VIP-v4.9.2-protected.zip",
+  "changelog": "🎬 MERGE MODE กลับมาใช้ได้กับ Flow แบบใหม่ (ต่อฉากครบวงจร · ไม่ต้องเปลี่ยนภาษา Flow) · 🖼️ ติ๊ก \"ใช้รูปเดิมทุกฉาก\" ทำงานจริงแล้ว (ฉาก 2+ Animate รูปฉาก 1 ต่อ) · 📷 มุมกล้อง \"ระยะใกล้\" ติดจริง + ล็อกกล้องในคลิปด้วย + เพิ่มระดับสายตา · 🎚️ เลือก 720p/1080p ได้ตามที่ตั้งจริง",
   "required": false,
   "versions": [
+    {
+      "version": "4.9.2",
+      "date": "2026-09-10",
+      "changelog": "🎬 MERGE MODE กลับมาใช้ได้กับ Flow แบบใหม่ (ต่อฉากครบวงจร · ไม่ต้องเปลี่ยนภาษา Flow) · 🖼️ ติ๊ก \"ใช้รูปเดิมทุกฉาก\" ทำงานจริงแล้ว (ฉาก 2+ Animate รูปฉาก 1 ต่อ) · 📷 มุมกล้อง \"ระยะใกล้\" ติดจริง + ล็อกกล้องในคลิปด้วย + เพิ่มระดับสายตา · 🎚️ เลือก 720p/1080p ได้ตามที่ตั้งจริง",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.2/PD-Auto-VIP-v4.9.2-protected.zip"
+    },
     {
       "version": "4.9.0",
       "date": "2026-09-09",
