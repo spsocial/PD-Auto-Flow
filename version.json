@@ -1,10 +1,16 @@
 {
-  "latest": "4.9.10",
-  "releaseDate": "2026-10-05",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.10/PD-Auto-VIP-v4.9.10-protected.zip",
-  "changelog": "🩹 แก้ Express: คลิปเจนเสร็จบน Flow แล้ว แต่บอทขึ้นว่า \"สร้างวิดีโอล้มเหลว\" (log: getMedia: ไม่พบ ...) — ตอนดึงไฟล์คลิป บางครั้ง Flow ยังไม่พร้อมส่งลิงก์ หรือตอบมาในรูปแบบที่บอทอ่านไม่ออก · แก้: บอทลองดึงซ้ำ + ลองอีก 2 ทางสำรองก่อนยอมแพ้ · ถ้ายังเฟลจะแนบเหตุผลจริงจาก Google ไว้ใน log · 💡 อัปเดตแล้วปิดแท็บ Flow ที่ค้างอยู่ก่อนสั่งงานใหม่",
+  "latest": "4.9.11",
+  "releaseDate": "2026-10-07",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.11/PD-Auto-VIP-v4.9.11-protected.zip",
+  "changelog": "🍌 แก้เจนภาพด้วย Nano Banana 2 ไม่ได้ — Flow ถอดรุ่น Nano Banana 2 ออกแล้ว เปลี่ยนเป็น Nano Banana 2.1 · ตอนนี้เลือก Nano Banana 2 ในบอท = เจนด้วย 2.1 ให้อัตโนมัติ (ทั้ง Express และ Merge) · Imagen 4 ถูกถอดจาก Flow เช่นกัน → ใช้ 2.1 แทน · 💡 อัปเดตแล้วปิดแท็บ Flow ที่ค้างอยู่ก่อนสั่งงานใหม่",
   "required": false,
   "versions": [
+    {
+      "version": "4.9.11",
+      "date": "2026-10-07",
+      "changelog": "🍌 แก้เจนภาพด้วย Nano Banana 2 ไม่ได้ — Flow ถอดรุ่น Nano Banana 2 ออกแล้ว เปลี่ยนเป็น Nano Banana 2.1 · ตอนนี้เลือก Nano Banana 2 ในบอท = เจนด้วย 2.1 ให้อัตโนมัติ (ทั้ง Express และ Merge) · Imagen 4 ถูกถอดจาก Flow เช่นกัน → ใช้ 2.1 แทน · 💡 อัปเดตแล้วปิดแท็บ Flow ที่ค้างอยู่ก่อนสั่งงานใหม่",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.11/PD-Auto-VIP-v4.9.11-protected.zip"
+    },
     {
       "version": "4.9.10",
       "date": "2026-10-05",
