@@ -1,10 +1,16 @@
 {
-  "latest": "4.9.12",
+  "latest": "4.9.13",
   "releaseDate": "2026-11-03",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.12/PD-Auto-VIP-v4.9.12-protected.zip",
-  "changelog": "🗓️ แก้ตั้งเวลาโพสต์ TikTok ไม่ได้ — รองรับหน้าตั้งเวลาแบบใหม่ของ TikTok + กดยอมรับหน้าต่าง Allow ให้อัตโนมัติ",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.13/PD-Auto-VIP-v4.9.13-protected.zip",
+  "changelog": "🩹 โพสต์ TikTok ทนขึ้น: ปิด popup ลิขสิทธิ์/แจ้งเตือนที่บังช่องแคปชั่นให้เอง (แก้ \"ไม่พบช่อง Description\") · แฮชแท็กไทยตัวอักษรครบ ไม่โดนสวมแท็กอื่น · ตัด emoji ออกจากชื่อตะกร้า (มี emoji = ปักตะกร้าไม่ได้) · Merge ตั้งแนวตั้ง/แนวนอนแล้วเช็คซ้ำ (แก้สั่งแนวตั้งได้แนวนอน)",
   "required": false,
   "versions": [
+    {
+      "version": "4.9.13",
+      "date": "2026-11-03",
+      "changelog": "🩹 โพสต์ TikTok ทนขึ้น: ปิด popup ลิขสิทธิ์/แจ้งเตือนที่บังช่องแคปชั่นให้เอง (แก้ \"ไม่พบช่อง Description\") · แฮชแท็กไทยตัวอักษรครบ ไม่โดนสวมแท็กอื่น · ตัด emoji ออกจากชื่อตะกร้า (มี emoji = ปักตะกร้าไม่ได้) · Merge ตั้งแนวตั้ง/แนวนอนแล้วเช็คซ้ำ (แก้สั่งแนวตั้งได้แนวนอน)",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.13/PD-Auto-VIP-v4.9.13-protected.zip"
+    },
     {
       "version": "4.9.12",
       "date": "2026-11-03",
