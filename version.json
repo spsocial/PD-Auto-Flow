@@ -1,10 +1,16 @@
 {
-  "latest": "4.9.16",
-  "releaseDate": "2026-11-05",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.16/PD-Auto-VIP-v4.9.16-protected.zip",
-  "changelog": "🏷️ แฮชแท็กตามสินค้าแม้ไม่ได้ใส่ API Key (โหมด No API) — เดิมได้ชุดเดิมทุกคลิป (#สินค้าtiktok #รีวิว ...) ตอนนี้คิดจากชื่อสินค้าให้เอง",
+  "latest": "4.9.17",
+  "releaseDate": "2026-11-06",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.17/PD-Auto-VIP-v4.9.17-protected.zip",
+  "changelog": "💾 จำค่าโหมด Merge ครบขึ้น: ลบโปรเจคหลังเสร็จ · สร้างโปรเจคใหม่ทุกคลิป · พักระหว่างชุด + สุ่มเวลาพัก (ต่ำสุด/สูงสุด) · ระยะห่างตั้งเวลาโพส + สุ่ม — ปิดเปิดบอทแล้วกด ♻️ กู้คืน ค่ากลับมาครบ",
   "required": false,
   "versions": [
+    {
+      "version": "4.9.17",
+      "date": "2026-11-06",
+      "changelog": "💾 จำค่าโหมด Merge ครบขึ้น: ลบโปรเจคหลังเสร็จ · สร้างโปรเจคใหม่ทุกคลิป · พักระหว่างชุด + สุ่มเวลาพัก (ต่ำสุด/สูงสุด) · ระยะห่างตั้งเวลาโพส + สุ่ม — ปิดเปิดบอทแล้วกด ♻️ กู้คืน ค่ากลับมาครบ",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.17/PD-Auto-VIP-v4.9.17-protected.zip"
+    },
     {
       "version": "4.9.16",
       "date": "2026-11-05",
