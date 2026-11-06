@@ -1,10 +1,16 @@
 {
-  "latest": "4.9.17",
-  "releaseDate": "2026-11-06",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.17/PD-Auto-VIP-v4.9.17-protected.zip",
-  "changelog": "💾 จำค่าโหมด Merge ครบขึ้น: ลบโปรเจคหลังเสร็จ · สร้างโปรเจคใหม่ทุกคลิป · พักระหว่างชุด + สุ่มเวลาพัก (ต่ำสุด/สูงสุด) · ระยะห่างตั้งเวลาโพส + สุ่ม — ปิดเปิดบอทแล้วกด ♻️ กู้คืน ค่ากลับมาครบ",
+  "latest": "4.9.18",
+  "releaseDate": "2026-11-07",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.18/PD-Auto-VIP-v4.9.18-protected.zip",
+  "changelog": "🩹 Merge แอป Flow ใหม่: กดปุ่มเจนภาพแน่นขึ้น — คลิกจริงขยับเมาส์ก่อน + วัดตำแหน่งปุ่มใหม่ตอนกด (แบบเดียวกับ PD App) · ถ้ายังกดไม่ติด log จะบอกว่ามีอะไรบังปุ่ม (ส่งรูป log ให้ทีมได้เลย)",
   "required": false,
   "versions": [
+    {
+      "version": "4.9.18",
+      "date": "2026-11-07",
+      "changelog": "🩹 Merge แอป Flow ใหม่: กดปุ่มเจนภาพแน่นขึ้น — คลิกจริงขยับเมาส์ก่อน + วัดตำแหน่งปุ่มใหม่ตอนกด (แบบเดียวกับ PD App) · ถ้ายังกดไม่ติด log จะบอกว่ามีอะไรบังปุ่ม (ส่งรูป log ให้ทีมได้เลย)",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.18/PD-Auto-VIP-v4.9.18-protected.zip"
+    },
     {
       "version": "4.9.17",
       "date": "2026-11-06",
