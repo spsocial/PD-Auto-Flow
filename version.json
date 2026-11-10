@@ -1,10 +1,16 @@
 {
-  "latest": "4.9.18",
-  "releaseDate": "2026-11-07",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.18/PD-Auto-VIP-v4.9.18-protected.zip",
-  "changelog": "🩹 Merge แอป Flow ใหม่: กดปุ่มเจนภาพแน่นขึ้น — คลิกจริงขยับเมาส์ก่อน + วัดตำแหน่งปุ่มใหม่ตอนกด (แบบเดียวกับ PD App) · ถ้ายังกดไม่ติด log จะบอกว่ามีอะไรบังปุ่ม (ส่งรูป log ให้ทีมได้เลย)",
+  "latest": "4.9.19",
+  "releaseDate": "2026-11-10",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.19/PD-Auto-VIP-v4.9.19-protected.zip",
+  "changelog": "🆕 Omni 1.2 Flash (โมเดลใหม่ของ Flow) เลือกได้ 4/6/8/10/15 วิ ในหน้า Auto + Story · Merge เลือกรุ่น Omni 1.2 กับเลื่อนหลอดความยาวให้เอง · Express หลายฉากกับ Omni = เจนแต่ละฉากแยกแล้วรวมคลิปให้ (Omni ต่อฉากด้วย Extend ไม่ได้) · ⚠️ Flow จะถอด Omni 1.1 / Veo Fast / Veo Quality วันที่ 5 ธ.ค. — แนะนำเปลี่ยนมาใช้ Omni 1.2 หรือ Veo Lite",
   "required": false,
   "versions": [
+    {
+      "version": "4.9.19",
+      "date": "2026-11-10",
+      "changelog": "🆕 Omni 1.2 Flash (โมเดลใหม่ของ Flow) เลือกได้ 4/6/8/10/15 วิ ในหน้า Auto + Story · Merge เลือกรุ่น Omni 1.2 กับเลื่อนหลอดความยาวให้เอง · Express หลายฉากกับ Omni = เจนแต่ละฉากแยกแล้วรวมคลิปให้ (Omni ต่อฉากด้วย Extend ไม่ได้) · ⚠️ Flow จะถอด Omni 1.1 / Veo Fast / Veo Quality วันที่ 5 ธ.ค. — แนะนำเปลี่ยนมาใช้ Omni 1.2 หรือ Veo Lite",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.19/PD-Auto-VIP-v4.9.19-protected.zip"
+    },
     {
       "version": "4.9.18",
       "date": "2026-11-07",
