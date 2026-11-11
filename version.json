@@ -1,10 +1,16 @@
 {
-  "latest": "4.9.20",
+  "latest": "4.9.21",
   "releaseDate": "2026-11-11",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.20/PD-Auto-VIP-v4.9.20-protected.zip",
-  "changelog": "🎬 ข้ามสร้างภาพ (เหมือน PD App) — ติ๊กที่หน้า Auto ใต้ \"โมเดลรูปภาพ\" บอทจะใช้รูปสินค้าของแต่ละชุดทำวิดีโอเลย ไม่เจนภาพใหม่ (สินค้าตรงรูปเป๊ะ · เร็วขึ้น) · ใช้กับโหมด Express · ต่อฉาก/Omni 1.2/1080p ใช้ได้เหมือนเดิม",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.21/PD-Auto-VIP-v4.9.21-protected.zip",
+  "changelog": "🥕 ข้ามสร้างภาพ + นางแบบ (เท่า PD App) — ติ๊ก 🎬 ข้ามสร้างภาพ แล้วใส่รูปนางแบบด้วย บอทจะแนบรูปสินค้า+นางแบบให้ Flow สร้างวิดีโอแบบ Ingredients (คนในคลิปเป็นนางแบบที่ใส่ · สินค้าตรงรูป) · ไม่มีนางแบบ = ใช้รูปสินค้าเป็นภาพแรกของคลิปเหมือนเดิม · ใช้กับโหมด Express",
   "required": false,
   "versions": [
+    {
+      "version": "4.9.21",
+      "date": "2026-11-11",
+      "changelog": "🥕 ข้ามสร้างภาพ + นางแบบ (เท่า PD App) — ติ๊ก 🎬 ข้ามสร้างภาพ แล้วใส่รูปนางแบบด้วย บอทจะแนบรูปสินค้า+นางแบบให้ Flow สร้างวิดีโอแบบ Ingredients (คนในคลิปเป็นนางแบบที่ใส่ · สินค้าตรงรูป) · ไม่มีนางแบบ = ใช้รูปสินค้าเป็นภาพแรกของคลิปเหมือนเดิม · ใช้กับโหมด Express",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.21/PD-Auto-VIP-v4.9.21-protected.zip"
+    },
     {
       "version": "4.9.20",
       "date": "2026-11-11",
