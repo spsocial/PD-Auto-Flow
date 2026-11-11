@@ -1,10 +1,16 @@
 {
-  "latest": "4.9.19",
-  "releaseDate": "2026-11-10",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.19/PD-Auto-VIP-v4.9.19-protected.zip",
-  "changelog": "🆕 Omni 1.2 Flash (โมเดลใหม่ของ Flow) เลือกได้ 4/6/8/10/15 วิ ในหน้า Auto + Story · Merge เลือกรุ่น Omni 1.2 กับเลื่อนหลอดความยาวให้เอง · Express หลายฉากกับ Omni = เจนแต่ละฉากแยกแล้วรวมคลิปให้ (Omni ต่อฉากด้วย Extend ไม่ได้) · ⚠️ Flow จะถอด Omni 1.1 / Veo Fast / Veo Quality วันที่ 5 ธ.ค. — แนะนำเปลี่ยนมาใช้ Omni 1.2 หรือ Veo Lite",
+  "latest": "4.9.20",
+  "releaseDate": "2026-11-11",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.20/PD-Auto-VIP-v4.9.20-protected.zip",
+  "changelog": "🎬 ข้ามสร้างภาพ (เหมือน PD App) — ติ๊กที่หน้า Auto ใต้ \"โมเดลรูปภาพ\" บอทจะใช้รูปสินค้าของแต่ละชุดทำวิดีโอเลย ไม่เจนภาพใหม่ (สินค้าตรงรูปเป๊ะ · เร็วขึ้น) · ใช้กับโหมด Express · ต่อฉาก/Omni 1.2/1080p ใช้ได้เหมือนเดิม",
   "required": false,
   "versions": [
+    {
+      "version": "4.9.20",
+      "date": "2026-11-11",
+      "changelog": "🎬 ข้ามสร้างภาพ (เหมือน PD App) — ติ๊กที่หน้า Auto ใต้ \"โมเดลรูปภาพ\" บอทจะใช้รูปสินค้าของแต่ละชุดทำวิดีโอเลย ไม่เจนภาพใหม่ (สินค้าตรงรูปเป๊ะ · เร็วขึ้น) · ใช้กับโหมด Express · ต่อฉาก/Omni 1.2/1080p ใช้ได้เหมือนเดิม",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.20/PD-Auto-VIP-v4.9.20-protected.zip"
+    },
     {
       "version": "4.9.19",
       "date": "2026-11-10",
