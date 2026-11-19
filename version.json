@@ -1,10 +1,16 @@
 {
-  "latest": "4.9.22",
+  "latest": "4.9.23",
   "releaseDate": "2026-11-19",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.22/PD-Auto-VIP-v4.9.22-protected.zip",
-  "changelog": "🩹 ต่อฉาก (Express) บน Flow ใหม่ใช้ได้แล้ว — Google เลิกให้ต่อฉากด้วย Veo (ขึ้น fZytfe [5]) · ตอนนี้เจนฉาก 2+ แยกจากภาพเดิมแล้วรวมคลิปให้ (Veo Lite ยัง 0 เครดิต) · 🩹 เลือกเสียงแม่ค้า/พี่สาวออฟฟิศ/นักศึกษาหญิง ฯลฯ แล้วพรอมต์เขียนเป็นผู้ชาย → แก้แล้ว · 🔑 ใช้คีย์ PDVIP- / PDALL- (คีย์ระบบ PD App) ได้แล้ว",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.23/PD-Auto-VIP-v4.9.23-protected.zip",
+  "changelog": "🎬 ข้ามสร้างภาพใช้ได้ในโหมด Merge แล้ว (เท่า PD App) — ติ๊ก 🎬 ข้ามสร้างภาพ แล้วเลือก MERGE MODE บอทจะใช้รูปสินค้าเป็นภาพแรกของทุกฉาก ไม่เจนภาพใหม่ (ประหยัดเครดิต + เร็วขึ้น) แล้วรวมคลิป/โพสต์ต่อเหมือนเดิม · ช่วงข้ามสร้างภาพสั่ง Flow ตรงแบบ PD App · ได้คลิป 720p",
   "required": false,
   "versions": [
+    {
+      "version": "4.9.23",
+      "date": "2026-11-19",
+      "changelog": "🎬 ข้ามสร้างภาพใช้ได้ในโหมด Merge แล้ว (เท่า PD App) — ติ๊ก 🎬 ข้ามสร้างภาพ แล้วเลือก MERGE MODE บอทจะใช้รูปสินค้าเป็นภาพแรกของทุกฉาก ไม่เจนภาพใหม่ (ประหยัดเครดิต + เร็วขึ้น) แล้วรวมคลิป/โพสต์ต่อเหมือนเดิม · ช่วงข้ามสร้างภาพสั่ง Flow ตรงแบบ PD App · ได้คลิป 720p",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.23/PD-Auto-VIP-v4.9.23-protected.zip"
+    },
     {
       "version": "4.9.22",
       "date": "2026-11-19",
