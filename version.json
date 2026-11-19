@@ -1,10 +1,16 @@
 {
-  "latest": "4.9.21",
-  "releaseDate": "2026-11-11",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.21/PD-Auto-VIP-v4.9.21-protected.zip",
-  "changelog": "🥕 ข้ามสร้างภาพ + นางแบบ (เท่า PD App) — ติ๊ก 🎬 ข้ามสร้างภาพ แล้วใส่รูปนางแบบด้วย บอทจะแนบรูปสินค้า+นางแบบให้ Flow สร้างวิดีโอแบบ Ingredients (คนในคลิปเป็นนางแบบที่ใส่ · สินค้าตรงรูป) · ไม่มีนางแบบ = ใช้รูปสินค้าเป็นภาพแรกของคลิปเหมือนเดิม · ใช้กับโหมด Express",
+  "latest": "4.9.22",
+  "releaseDate": "2026-11-19",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.22/PD-Auto-VIP-v4.9.22-protected.zip",
+  "changelog": "🩹 ต่อฉาก (Express) บน Flow ใหม่ใช้ได้แล้ว — Google เลิกให้ต่อฉากด้วย Veo (ขึ้น fZytfe [5]) · ตอนนี้เจนฉาก 2+ แยกจากภาพเดิมแล้วรวมคลิปให้ (Veo Lite ยัง 0 เครดิต) · 🩹 เลือกเสียงแม่ค้า/พี่สาวออฟฟิศ/นักศึกษาหญิง ฯลฯ แล้วพรอมต์เขียนเป็นผู้ชาย → แก้แล้ว · 🔑 ใช้คีย์ PDVIP- / PDALL- (คีย์ระบบ PD App) ได้แล้ว",
   "required": false,
   "versions": [
+    {
+      "version": "4.9.22",
+      "date": "2026-11-19",
+      "changelog": "🩹 ต่อฉาก (Express) บน Flow ใหม่ใช้ได้แล้ว — Google เลิกให้ต่อฉากด้วย Veo (ขึ้น fZytfe [5]) · ตอนนี้เจนฉาก 2+ แยกจากภาพเดิมแล้วรวมคลิปให้ (Veo Lite ยัง 0 เครดิต) · 🩹 เลือกเสียงแม่ค้า/พี่สาวออฟฟิศ/นักศึกษาหญิง ฯลฯ แล้วพรอมต์เขียนเป็นผู้ชาย → แก้แล้ว · 🔑 ใช้คีย์ PDVIP- / PDALL- (คีย์ระบบ PD App) ได้แล้ว",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.22/PD-Auto-VIP-v4.9.22-protected.zip"
+    },
     {
       "version": "4.9.21",
       "date": "2026-11-11",
