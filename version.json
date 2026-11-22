@@ -1,10 +1,16 @@
 {
-  "latest": "4.9.23",
-  "releaseDate": "2026-11-19",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.23/PD-Auto-VIP-v4.9.23-protected.zip",
-  "changelog": "🎬 ข้ามสร้างภาพใช้ได้ในโหมด Merge แล้ว (เท่า PD App) — ติ๊ก 🎬 ข้ามสร้างภาพ แล้วเลือก MERGE MODE บอทจะใช้รูปสินค้าเป็นภาพแรกของทุกฉาก ไม่เจนภาพใหม่ (ประหยัดเครดิต + เร็วขึ้น) แล้วรวมคลิป/โพสต์ต่อเหมือนเดิม · ช่วงข้ามสร้างภาพสั่ง Flow ตรงแบบ PD App · ได้คลิป 720p",
+  "latest": "4.9.24",
+  "releaseDate": "2026-11-22",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.24/PD-Auto-VIP-v4.9.24-protected.zip",
+  "changelog": "🛒 แก้ปักตะกร้า TikTok ค้างที่ปุ่ม Next — รองรับ TikTok ที่ตั้งภาษาไทย (ปุ่มเป็นคำว่า ถัดไป) · อัปเดตแล้วอย่าลืม Reload ส่วนขยาย",
   "required": false,
   "versions": [
+    {
+      "version": "4.9.24",
+      "date": "2026-11-22",
+      "changelog": "🛒 แก้ปักตะกร้า TikTok ค้างที่ปุ่ม Next — รองรับ TikTok ที่ตั้งภาษาไทย (ปุ่มเป็นคำว่า ถัดไป) · อัปเดตแล้วอย่าลืม Reload ส่วนขยาย",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.24/PD-Auto-VIP-v4.9.24-protected.zip"
+    },
     {
       "version": "4.9.23",
       "date": "2026-11-19",
