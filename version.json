@@ -1,15 +1,15 @@
 {
-  "latest": "4.9.24",
-  "releaseDate": "2026-11-22",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.24/PD-Auto-VIP-v4.9.24-protected.zip",
-  "changelog": "🛒 แก้ปักตะกร้า TikTok ค้างที่ปุ่ม Next — รองรับ TikTok ที่ตั้งภาษาไทย (ปุ่มเป็นคำว่า ถัดไป) · อัปเดตแล้วอย่าลืม Reload ส่วนขยาย",
+  "latest": "4.9.25",
+  "releaseDate": "2026-11-25",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.25/PD-Auto-VIP-v4.9.25-protected.zip",
+  "changelog": "🪟 แก้บอทค้างตอนอัปโหลดรูป (ต้องกดย่อ/ขยายหน้าต่างเองถึงจะทำต่อ) — ส่วนขยายปลุกหน้าต่าง Flow ให้เอง",
   "required": false,
   "versions": [
     {
-      "version": "4.9.24",
-      "date": "2026-11-22",
-      "changelog": "🛒 แก้ปักตะกร้า TikTok ค้างที่ปุ่ม Next — รองรับ TikTok ที่ตั้งภาษาไทย (ปุ่มเป็นคำว่า ถัดไป) · อัปเดตแล้วอย่าลืม Reload ส่วนขยาย",
-      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.24/PD-Auto-VIP-v4.9.24-protected.zip"
+      "version": "4.9.25",
+      "date": "2026-11-25",
+      "changelog": "🪟 แก้บอทค้างตอนอัปโหลดรูป (ต้องกดย่อ/ขยายหน้าต่างเองถึงจะทำต่อ) — ส่วนขยายปลุกหน้าต่าง Flow ให้เอง",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.25/PD-Auto-VIP-v4.9.25-protected.zip"
     },
     {
       "version": "4.9.23",
