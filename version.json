@@ -1,10 +1,16 @@
 {
-  "latest": "4.9.25",
-  "releaseDate": "2026-11-25",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.25/PD-Auto-VIP-v4.9.25-protected.zip",
-  "changelog": "🪟 แก้บอทค้างตอนอัปโหลดรูป (ต้องกดย่อ/ขยายหน้าต่างเองถึงจะทำต่อ) — ส่วนขยายปลุกหน้าต่าง Flow ให้เอง",
+  "latest": "4.9.26",
+  "releaseDate": "2026-11-26",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.26/PD-Auto-VIP-v4.9.26-protected.zip",
+  "changelog": "⏱️ แก้บอทรอนาน 3-4 นาทีหลังอัปโหลดรูป (ต้องกดย่อ/ขยายหน้าต่างเอง) — บอทกระตุ้นรูปย่อในเมนู Flow เองแล้ว",
   "required": false,
   "versions": [
+    {
+      "version": "4.9.26",
+      "date": "2026-11-26",
+      "changelog": "⏱️ แก้บอทรอนาน 3-4 นาทีหลังอัปโหลดรูป (ต้องกดย่อ/ขยายหน้าต่างเอง) — บอทกระตุ้นรูปย่อในเมนู Flow เองแล้ว",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.26/PD-Auto-VIP-v4.9.26-protected.zip"
+    },
     {
       "version": "4.9.25",
       "date": "2026-11-25",
