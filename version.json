@@ -1,10 +1,16 @@
 {
-  "latest": "4.9.27",
+  "latest": "4.9.28",
   "releaseDate": "2026-11-27",
-  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.27/PD-Auto-VIP-v4.9.27-protected.zip",
-  "changelog": "🤖 แก้ Merge สั่งแนวตั้งได้แนวนอน — Flow เปลี่ยนปุ่ม Agent ทำให้บอทปิด Agent ให้ไม่ได้ (Agent เจนเองด้วยค่าเริ่มต้น 16:9) · ตอนนี้บอทปิด Agent ให้ก่อนเริ่มแล้ว",
+  "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.28/PD-Auto-VIP-v4.9.28-protected.zip",
+  "changelog": "🎥 โหมดต่อฉาก: ฉาก 2 เป็นต้นไปได้มุมกล้อง + คำสั่งเพิ่มเติมให้ AI + Negative Prompt เหมือนฉากแรกแล้ว (เดิมฉาก 2+ ล็อกกล้องนิ่งตายตัว = โดนข้อหาภาพนิ่งบ่อย)",
   "required": false,
   "versions": [
+    {
+      "version": "4.9.28",
+      "date": "2026-11-27",
+      "changelog": "🎥 โหมดต่อฉาก: ฉาก 2 เป็นต้นไปได้มุมกล้อง + คำสั่งเพิ่มเติมให้ AI + Negative Prompt เหมือนฉากแรกแล้ว (เดิมฉาก 2+ ล็อกกล้องนิ่งตายตัว = โดนข้อหาภาพนิ่งบ่อย)",
+      "downloadUrl": "https://github.com/spsocial/PD-Auto-Flow/releases/download/v4.9.28/PD-Auto-VIP-v4.9.28-protected.zip"
+    },
     {
       "version": "4.9.27",
       "date": "2026-11-27",
